@@ -1,0 +1,60 @@
+5000 5000 25000 25000
+5-fold CV No. 1
+5-fold CV No. 1 , max_feature= 1 , total_score= 3.35501054006
+5-fold CV No. 1 , max_feature= 2 , total_score= 3.35950863951
+5-fold CV No. 1 , max_feature= 4 , total_score= 3.38565391972
+5-fold CV No. 1 , max_feature= 6 , total_score= 3.39384622836
+5-fold CV No. 1 , max_feature= 8 , total_score= 3.37784524538
+5-fold CV No. 1 , max_feature= 12 , total_score= 3.34474439816
+5-fold CV No. 1 , max_feature= 16 , total_score= 3.34586032715
+5-fold CV No. 1 , max_feature= 20 , total_score= 3.33119427289
+5-fold CV No. 1 , best score(CV) =  0.848461557089 , best_nf= 6 best acc, roc, apr, f1(CV)= 0.843 0.843511756038 0.862626262626 0.844708209693
+5-fold CV No. 1 acc, roc, apr, f1(test)= 0.81564 0.81622129399 0.837548080858 0.816206085257 , avg=  0.821403865026
+5-fold CV No. 2
+5-fold CV No. 2 , max_feature= 1 , total_score= 3.28047294057
+5-fold CV No. 2 , max_feature= 2 , total_score= 3.26715072143
+5-fold CV No. 2 , max_feature= 4 , total_score= 3.2974134757
+5-fold CV No. 2 , max_feature= 6 , total_score= 3.31636273457
+5-fold CV No. 2 , max_feature= 8 , total_score= 3.3179415659
+5-fold CV No. 2 , max_feature= 12 , total_score= 3.33247240861
+5-fold CV No. 2 , max_feature= 16 , total_score= 3.33348708542
+5-fold CV No. 2 , max_feature= 20 , total_score= 3.31538238051
+5-fold CV No. 2 , best score(CV) =  0.833371771354 , best_nf= 16 best acc, roc, apr, f1(CV)= 0.833 0.832951986272 0.836734693878 0.830800405268
+5-fold CV No. 2 acc, roc, apr, f1(test)= 0.81352 0.814025028504 0.833604689026 0.814573224087 , avg=  0.818930735404
+5-fold CV No. 3
+5-fold CV No. 3 , max_feature= 1 , total_score= 3.19424542278
+5-fold CV No. 3 , max_feature= 2 , total_score= 3.2480365607
+5-fold CV No. 3 , max_feature= 4 , total_score= 3.21673484016
+5-fold CV No. 3 , max_feature= 6 , total_score= 3.22579057885
+5-fold CV No. 3 , max_feature= 8 , total_score= 3.21673484016
+5-fold CV No. 3 , max_feature= 12 , total_score= 3.20585243563
+5-fold CV No. 3 , max_feature= 16 , total_score= 3.2141392932
+5-fold CV No. 3 , max_feature= 20 , total_score= 3.21317494345
+5-fold CV No. 3 , best score(CV) =  0.812009140174 , best_nf= 2 best acc, roc, apr, f1(CV)= 0.807 0.807456809096 0.827160493827 0.806419257773
+5-fold CV No. 3 acc, roc, apr, f1(test)= 0.80792 0.808521326895 0.8302722204 0.808333998563 , avg=  0.813761886465
+5-fold CV No. 4
+5-fold CV No. 4 , max_feature= 1 , total_score= 3.21957491018
+5-fold CV No. 4 , max_feature= 2 , total_score= 3.24513405262
+5-fold CV No. 4 , max_feature= 4 , total_score= 3.26396191528
+5-fold CV No. 4 , max_feature= 6 , total_score= 3.24866162798
+5-fold CV No. 4 , max_feature= 8 , total_score= 3.28250816107
+5-fold CV No. 4 , max_feature= 12 , total_score= 3.29252105266
+5-fold CV No. 4 , max_feature= 16 , total_score= 3.27950122317
+5-fold CV No. 4 , max_feature= 20 , total_score= 3.2573155845
+5-fold CV No. 4 , best score(CV) =  0.823130263166 , best_nf= 12 best acc, roc, apr, f1(CV)= 0.82 0.820177965559 0.831983805668 0.820359281437
+5-fold CV No. 4 acc, roc, apr, f1(test)= 0.81116 0.811843097976 0.835491053022 0.811046627977 , avg=  0.817385194744
+5-fold CV No. 5
+5-fold CV No. 5 , max_feature= 1 , total_score= 3.18401748465
+5-fold CV No. 5 , max_feature= 2 , total_score= 3.21207998598
+5-fold CV No. 5 , max_feature= 4 , total_score= 3.24369753138
+5-fold CV No. 5 , max_feature= 6 , total_score= 3.27461850686
+5-fold CV No. 5 , max_feature= 8 , total_score= 3.29093582536
+5-fold CV No. 5 , max_feature= 12 , total_score= 3.29093582536
+5-fold CV No. 5 , max_feature= 16 , total_score= 3.29197139693
+5-fold CV No. 5 , max_feature= 20 , total_score= 3.24849038712
+5-fold CV No. 5 , best score(CV) =  0.822992849232 , best_nf= 16 best acc, roc, apr, f1(CV)= 0.82 0.819947279789 0.837209302326 0.814814814815
+5-fold CV No. 5 acc, roc, apr, f1(test)= 0.81192 0.812572765286 0.835527398387 0.812010235087 , avg=  0.81800759969
+total cv avg= 0.827993116203
+cv avg acc, roc, apr, f1= 0.8246 0.824809159351 0.839142911665 0.823420393797
+total test avg= 0.817897856266
+test avg acc, roc, apr, f1= 0.812032 0.81263670253 0.834488688339 0.812434034194

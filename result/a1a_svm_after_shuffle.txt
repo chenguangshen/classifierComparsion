@@ -1,0 +1,115 @@
+5000 5000 25000 25000
+5-fold CV No. 1
+train poly, degree=2
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 1 , setting:  poly, degree=2 total_score= 1.276
+train poly, degree=3
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 1 , setting:  poly, degree=3 total_score= 1.276
+5-fold CV No. 1 , setting:  linear , total_score= 3.05382422533
+5-fold CV No. 1 , setting:  rbf, gamma=0.001 , total_score= 2.45000515541
+5-fold CV No. 1 , setting:  rbf, gamma=0.005 , total_score= 3.00546100459
+5-fold CV No. 1 , setting:  rbf, gamma=0.01 , total_score= 3.01449394069
+5-fold CV No. 1 , setting:  rbf, gamma=0.05 , total_score= 3.04029234168
+5-fold CV No. 1 , setting:  rbf, gamma=0.1 , total_score= 3.08027190771
+5-fold CV No. 1 , setting:  rbf, gamma=0.5 , total_score= 2.81938000454
+5-fold CV No. 1 , setting:  rbf, gamma=1 , total_score= 2.12418645265
+5-fold CV No. 1 , setting:  rbf, gamma=2 , total_score= 2.02970928928
+5-fold CV No. 1 , best score(CV) =  0.770067976928 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.869 0.779040868925 0.754098360656 0.678132678133
+5-fold CV No. 1 test score: acc, roc, apr, f1= 0.843 0.751023784777 0.714700996678 0.636876676843 , avg=  0.736400364575
+5-fold CV No. 2
+train poly, degree=2
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 2 , setting:  poly, degree=2 total_score= 1.239
+train poly, degree=3
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 2 , setting:  poly, degree=3 total_score= 1.239
+5-fold CV No. 2 , setting:  linear , total_score= 2.90171772107
+5-fold CV No. 2 , setting:  rbf, gamma=0.001 , total_score= 2.27125542027
+5-fold CV No. 2 , setting:  rbf, gamma=0.005 , total_score= 2.75394897887
+5-fold CV No. 2 , setting:  rbf, gamma=0.01 , total_score= 2.78213501185
+5-fold CV No. 2 , setting:  rbf, gamma=0.05 , total_score= 2.816638026
+5-fold CV No. 2 , setting:  rbf, gamma=0.1 , total_score= 2.86250498178
+5-fold CV No. 2 , setting:  rbf, gamma=0.5 , total_score= 2.50001746219
+5-fold CV No. 2 , setting:  rbf, gamma=1 , total_score= 1.95597678169
+5-fold CV No. 2 , setting:  rbf, gamma=2 , total_score= 1.7115524775
+5-fold CV No. 2 , best score(CV) =  0.725429430268 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.826 0.734818202085 0.720812182741 0.620087336245
+5-fold CV No. 2 test score: acc, roc, apr, f1= 0.8458 0.753379332762 0.724391267842 0.641628706889 , avg=  0.741299826873
+5-fold CV No. 3
+train poly, degree=2
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 3 , setting:  poly, degree=2 total_score= 1.262
+train poly, degree=3
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 3 , setting:  poly, degree=3 total_score= 1.262
+5-fold CV No. 3 , setting:  linear , total_score= 2.99498470497
+5-fold CV No. 3 , setting:  rbf, gamma=0.001 , total_score= 2.24827870046
+5-fold CV No. 3 , setting:  rbf, gamma=0.005 , total_score= 2.94471785262
+5-fold CV No. 3 , setting:  rbf, gamma=0.01 , total_score= 2.93779448451
+5-fold CV No. 3 , setting:  rbf, gamma=0.05 , total_score= 2.98198015304
+5-fold CV No. 3 , setting:  rbf, gamma=0.1 , total_score= 2.9798800073
+5-fold CV No. 3 , setting:  rbf, gamma=0.5 , total_score= 2.73415435126
+5-fold CV No. 3 , setting:  rbf, gamma=1 , total_score= 2.22039522605
+5-fold CV No. 3 , setting:  rbf, gamma=2 , total_score= 2.00849529997
+5-fold CV No. 3 , best score(CV) =  0.748746176242 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.85 0.768664946293 0.71568627451 0.660633484163
+5-fold CV No. 3 test score: acc, roc, apr, f1= 0.84756 0.760534881056 0.721298174442 0.651103176783 , avg=  0.74512405807
+5-fold CV No. 4
+train poly, degree=2
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 4 , setting:  poly, degree=2 total_score= 1.259
+train poly, degree=3
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 4 , setting:  poly, degree=3 total_score= 1.259
+5-fold CV No. 4 , setting:  linear , total_score= 2.9735879343
+5-fold CV No. 4 , setting:  rbf, gamma=0.001 , total_score= 2.44305265528
+5-fold CV No. 4 , setting:  rbf, gamma=0.005 , total_score= 2.92583862515
+5-fold CV No. 4 , setting:  rbf, gamma=0.01 , total_score= 2.95826109099
+5-fold CV No. 4 , setting:  rbf, gamma=0.05 , total_score= 2.96844908868
+5-fold CV No. 4 , setting:  rbf, gamma=0.1 , total_score= 2.91557088652
+5-fold CV No. 4 , setting:  rbf, gamma=0.5 , total_score= 2.82473191821
+5-fold CV No. 4 , setting:  rbf, gamma=1 , total_score= 2.20262741411
+5-fold CV No. 4 , setting:  rbf, gamma=2 , total_score= 2.05012305696
+5-fold CV No. 4 , best score(CV) =  0.743396983574 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.846 0.758373925071 0.720812182741 0.648401826484
+5-fold CV No. 4 test score: acc, roc, apr, f1= 0.84604 0.757078892773 0.719582138468 0.646068965517 , avg=  0.742192499189
+5-fold CV No. 5
+train poly, degree=2
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 5 , setting:  poly, degree=2 total_score= 1.256
+train poly, degree=3
+4000 4000
+after train do prediction
+after prediction
+5-fold CV No. 5 , setting:  poly, degree=3 total_score= 1.256
+5-fold CV No. 5 , setting:  linear , total_score= 2.97581366483
+5-fold CV No. 5 , setting:  rbf, gamma=0.001 , total_score= 2.2577599073
+5-fold CV No. 5 , setting:  rbf, gamma=0.005 , total_score= 2.92041605534
+5-fold CV No. 5 , setting:  rbf, gamma=0.01 , total_score= 2.94572982282
+5-fold CV No. 5 , setting:  rbf, gamma=0.05 , total_score= 2.93862446939
+5-fold CV No. 5 , setting:  rbf, gamma=0.1 , total_score= 2.89793909792
+5-fold CV No. 5 , setting:  rbf, gamma=0.5 , total_score= 2.65213012958
+5-fold CV No. 5 , setting:  rbf, gamma=1 , total_score= 2.09527431802
+5-fold CV No. 5 , setting:  rbf, gamma=2 , total_score= 2.06697463485
+5-fold CV No. 5 , best score(CV) =  0.743953416207 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.844 0.766371758175 0.707547169811 0.657894736842
+5-fold CV No. 5 test score: acc, roc, apr, f1= 0.8476 0.762446298009 0.718518518519 0.653258099745 , avg=  0.745455729068
+total cv avg= 0.746318796644
+cv avg acc, roc, apr, f1= 0.847 0.76145394011 0.723791234092 0.653030012373
+total test avg= 0.742094495555
+test avg acc, roc, apr, f1= 0.846 0.756892637875 0.71969821919 0.645787125155

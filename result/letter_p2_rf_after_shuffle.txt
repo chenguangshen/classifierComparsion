@@ -1,0 +1,55 @@
+5000 5000 14000 14000
+5-fold CV No. 1
+5-fold CV No. 1 , max_feature= 1 , total_score= 3.94980023229
+5-fold CV No. 1 , max_feature= 2 , total_score= 3.94980023229
+5-fold CV No. 1 , max_feature= 4 , total_score= 3.94980023229
+5-fold CV No. 1 , max_feature= 6 , total_score= 4.0
+5-fold CV No. 1 , max_feature= 8 , total_score= 4.0
+5-fold CV No. 1 , max_feature= 12 , total_score= 4.0
+5-fold CV No. 1 , max_feature= 16 , total_score= 4.0
+5-fold CV No. 1 , best score(CV) =  1.0 , best_nf= 6 best acc, roc, apr, f1(CV)= 1.0 1.0 1.0 1.0
+5-fold CV No. 1 acc, roc, apr, f1(test)= 0.989571428571 0.887574254149 0.938914027149 0.850409836066 , avg=  0.916617386484
+5-fold CV No. 2
+5-fold CV No. 2 , max_feature= 1 , total_score= 3.74518060201
+5-fold CV No. 2 , max_feature= 2 , total_score= 3.80466486096
+5-fold CV No. 2 , max_feature= 4 , total_score= 3.83374358974
+5-fold CV No. 2 , max_feature= 6 , total_score= 3.83374358974
+5-fold CV No. 2 , max_feature= 8 , total_score= 3.83374358974
+5-fold CV No. 2 , max_feature= 12 , total_score= 3.86240428521
+5-fold CV No. 2 , max_feature= 16 , total_score= 3.86240428521
+5-fold CV No. 2 , best score(CV) =  0.965601071303 , best_nf= 12 best acc, roc, apr, f1(CV)= 0.995 0.935897435897 1.0 0.931506849315
+5-fold CV No. 2 acc, roc, apr, f1(test)= 0.987785714286 0.872258805781 0.91724137931 0.823529411765 , avg=  0.900203827786
+5-fold CV No. 3
+5-fold CV No. 3 , max_feature= 1 , total_score= 3.71481959379
+5-fold CV No. 3 , max_feature= 2 , total_score= 3.84594748207
+5-fold CV No. 3 , max_feature= 4 , total_score= 3.84594748207
+5-fold CV No. 3 , max_feature= 6 , total_score= 3.84594748207
+5-fold CV No. 3 , max_feature= 8 , total_score= 3.84594748207
+5-fold CV No. 3 , max_feature= 12 , total_score= 3.84594748207
+5-fold CV No. 3 , max_feature= 16 , total_score= 3.84594748207
+5-fold CV No. 3 , best score(CV) =  0.961486870517 , best_nf= 2 best acc, roc, apr, f1(CV)= 0.996 0.951096907354 0.965517241379 0.933333333333
+5-fold CV No. 3 acc, roc, apr, f1(test)= 0.987428571429 0.844197982879 0.973544973545 0.80701754386 , avg=  0.903047267928
+5-fold CV No. 4
+5-fold CV No. 4 , max_feature= 1 , total_score= 3.63047014925
+5-fold CV No. 4 , max_feature= 2 , total_score= 3.63047014925
+5-fold CV No. 4 , max_feature= 4 , total_score= 3.6452172619
+5-fold CV No. 4 , max_feature= 6 , total_score= 3.70684027778
+5-fold CV No. 4 , max_feature= 8 , total_score= 3.58479761905
+5-fold CV No. 4 , max_feature= 12 , total_score= 3.58479761905
+5-fold CV No. 4 , max_feature= 16 , total_score= 3.47868201754
+5-fold CV No. 4 , best score(CV) =  0.926710069444 , best_nf= 6 best acc, roc, apr, f1(CV)= 0.99 0.886979166667 0.96875 0.861111111111
+5-fold CV No. 4 acc, roc, apr, f1(test)= 0.987357142857 0.856749638846 0.938574938575 0.811902231668 , avg=  0.898645987987
+5-fold CV No. 5
+5-fold CV No. 5 , max_feature= 1 , total_score= 3.59033900814
+5-fold CV No. 5 , max_feature= 2 , total_score= 3.71488758782
+5-fold CV No. 5 , max_feature= 4 , total_score= 3.74868202765
+5-fold CV No. 5 , max_feature= 6 , total_score= 3.71488758782
+5-fold CV No. 5 , max_feature= 8 , total_score= 3.71488758782
+5-fold CV No. 5 , max_feature= 12 , total_score= 3.6625830771
+5-fold CV No. 5 , max_feature= 16 , total_score= 3.48142636315
+5-fold CV No. 5 , best score(CV) =  0.937170506912 , best_nf= 4 best acc, roc, apr, f1(CV)= 0.992 0.885714285714 1.0 0.870967741935
+5-fold CV No. 5 acc, roc, apr, f1(test)= 0.986714285714 0.850121070628 0.932835820896 0.801282051282 , avg=  0.89273830713
+total cv avg= 0.958193703635
+cv avg acc, roc, apr, f1= 0.9946 0.931937559126 0.986853448276 0.919383807139
+total test avg= 0.902250555463
+test avg acc, roc, apr, f1= 0.987771428571 0.862180350457 0.940222227895 0.818828214928

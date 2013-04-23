@@ -1,0 +1,70 @@
+5000 5000 25000 25000
+5-fold CV No. 1
+5-fold CV No. 1 , nf:  2 total_score= 2.96157887628
+5-fold CV No. 1 , nf:  4 total_score= 3.03646486345
+5-fold CV No. 1 , nf:  8 total_score= 3.12399429106
+5-fold CV No. 1 , nf:  16 total_score= 3.15063709899
+5-fold CV No. 1 , nf:  32 total_score= 3.19651659309
+5-fold CV No. 1 , nf:  64 total_score= 3.24058545581
+5-fold CV No. 1 , nf:  128 total_score= 3.25007849837
+5-fold CV No. 1 , nf:  256 total_score= 3.28637028334
+5-fold CV No. 1 , nf:  512 total_score= 3.32651036644
+5-fold CV No. 1 , nf:  1024 total_score= 3.30980516039
+5-fold CV No. 1 , best score(CV) =  0.831627591609 , nf:  512 best acc, roc, apr, f1(CV)= 0.827 0.827303158434 0.842315369261 0.829891838741
+5-fold CV No. 1 test score: acc, roc, apr, f1= 0.78944 0.790039914724 0.811638214051 0.789793147512 , avg=  0.795227819072
+5-fold CV No. 2
+5-fold CV No. 2 , nf:  2 total_score= 2.88174709972
+5-fold CV No. 2 , nf:  4 total_score= 2.89727332453
+5-fold CV No. 2 , nf:  8 total_score= 3.00156426483
+5-fold CV No. 2 , nf:  16 total_score= 3.01898324549
+5-fold CV No. 2 , nf:  32 total_score= 3.04158065829
+5-fold CV No. 2 , nf:  64 total_score= 3.12585579014
+5-fold CV No. 2 , nf:  128 total_score= 3.20885948236
+5-fold CV No. 2 , nf:  256 total_score= 3.21444070219
+5-fold CV No. 2 , nf:  512 total_score= 3.24128639502
+5-fold CV No. 2 , nf:  1024 total_score= 3.25192403842
+5-fold CV No. 2 , best score(CV) =  0.812981009605 , nf:  1024 best acc, roc, apr, f1(CV)= 0.813 0.812963266678 0.815040650407 0.810920121335
+5-fold CV No. 2 test score: acc, roc, apr, f1= 0.78924 0.789538210401 0.804852574918 0.791780280577 , avg=  0.793852766474
+5-fold CV No. 3
+5-fold CV No. 3 , nf:  2 total_score= 2.85124417307
+5-fold CV No. 3 , nf:  4 total_score= 2.9174129236
+5-fold CV No. 3 , nf:  8 total_score= 2.94152105671
+5-fold CV No. 3 , nf:  16 total_score= 2.98070475973
+5-fold CV No. 3 , nf:  32 total_score= 3.0642863694
+5-fold CV No. 3 , nf:  64 total_score= 3.06622100356
+5-fold CV No. 3 , nf:  128 total_score= 3.04505669976
+5-fold CV No. 3 , nf:  256 total_score= 3.06570598865
+5-fold CV No. 3 , nf:  512 total_score= 3.14829429578
+5-fold CV No. 3 , nf:  1024 total_score= 3.15310968109
+5-fold CV No. 3 , best score(CV) =  0.788277420271 , nf:  1024 best acc, roc, apr, f1(CV)= 0.786 0.785896373845 0.79060665362 0.79060665362
+5-fold CV No. 3 test score: acc, roc, apr, f1= 0.79068 0.791222459106 0.811606048222 0.791455784482 , avg=  0.796241072952
+5-fold CV No. 4
+5-fold CV No. 4 , nf:  2 total_score= 2.87501139375
+5-fold CV No. 4 , nf:  4 total_score= 2.92688549351
+5-fold CV No. 4 , nf:  8 total_score= 2.93256016647
+5-fold CV No. 4 , nf:  16 total_score= 2.95843811334
+5-fold CV No. 4 , nf:  32 total_score= 3.0397039873
+5-fold CV No. 4 , nf:  64 total_score= 3.11337582643
+5-fold CV No. 4 , nf:  128 total_score= 3.11352044972
+5-fold CV No. 4 , nf:  256 total_score= 3.12596461361
+5-fold CV No. 4 , nf:  512 total_score= 3.1352640842
+5-fold CV No. 4 , nf:  1024 total_score= 3.14333428194
+5-fold CV No. 4 , best score(CV) =  0.785833570484 , nf:  1024 best acc, roc, apr, f1(CV)= 0.782 0.782296267845 0.798353909465 0.780684104628
+5-fold CV No. 4 test score: acc, roc, apr, f1= 0.78368 0.78410320514 0.802010702124 0.78532867577 , avg=  0.788780645759
+5-fold CV No. 5
+5-fold CV No. 5 , nf:  2 total_score= 2.85703907042
+5-fold CV No. 5 , nf:  4 total_score= 2.87887663551
+5-fold CV No. 5 , nf:  8 total_score= 2.92792637287
+5-fold CV No. 5 , nf:  16 total_score= 2.97239132955
+5-fold CV No. 5 , nf:  32 total_score= 2.99489437342
+5-fold CV No. 5 , nf:  64 total_score= 3.07861476614
+5-fold CV No. 5 , nf:  128 total_score= 3.12964664499
+5-fold CV No. 5 , nf:  256 total_score= 3.13670746153
+5-fold CV No. 5 , nf:  512 total_score= 3.08899624845
+5-fold CV No. 5 , nf:  1024 total_score= 3.09014819991
+5-fold CV No. 5 , best score(CV) =  0.784176865383 , nf:  256 best acc, roc, apr, f1(CV)= 0.782 0.781947127789 0.797040169133 0.775720164609
+5-fold CV No. 5 test score: acc, roc, apr, f1= 0.79072 0.791621359103 0.819828887771 0.788861985472 , avg=  0.797758058086
+total cv avg= 0.80057929147
+cv avg acc, roc, apr, f1= 0.798 0.798081238918 0.808671350377 0.797564576587
+total test avg= 0.794372072469
+test avg acc, roc, apr, f1= 0.788752 0.789305029695 0.809987285417 0.789443974763

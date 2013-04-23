@@ -1,0 +1,75 @@
+5000 5000 14000 14000
+5-fold CV No. 1
+5-fold CV No. 1 , setting:  poly, degree=2 total_score= 3.54263122235
+5-fold CV No. 1 , setting:  poly, degree=3 total_score= 3.96132296455
+5-fold CV No. 1 , setting:  linear , total_score= 3.00830694314
+5-fold CV No. 1 , setting:  rbf, gamma=0.001 , total_score= 3.10627599866
+5-fold CV No. 1 , setting:  rbf, gamma=0.005 , total_score= 3.54994381344
+5-fold CV No. 1 , setting:  rbf, gamma=0.01 , total_score= 3.69058371643
+5-fold CV No. 1 , setting:  rbf, gamma=0.05 , total_score= 3.90342876801
+5-fold CV No. 1 , setting:  rbf, gamma=0.1 , total_score= 3.92264592911
+5-fold CV No. 1 , setting:  rbf, gamma=0.5 , total_score= 3.87610471029
+5-fold CV No. 1 , setting:  rbf, gamma=1 , total_score= 3.73064927009
+5-fold CV No. 1 , setting:  rbf, gamma=2 , total_score= 3.69976459046
+5-fold CV No. 1 , best score(CV) =  0.990330741138 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.99 0.989944938483 0.990689013035 0.990689013035
+5-fold CV No. 1 test score: acc, roc, apr, f1= 0.911428571429 0.911478354257 0.903284928803 0.911768891419 , avg=  0.909490186477
+5-fold CV No. 2
+5-fold CV No. 2 , setting:  poly, degree=2 total_score= 3.52427290826
+5-fold CV No. 2 , setting:  poly, degree=3 total_score= 3.8788490821
+5-fold CV No. 2 , setting:  linear , total_score= 2.98148041728
+5-fold CV No. 2 , setting:  rbf, gamma=0.001 , total_score= 3.02927683503
+5-fold CV No. 2 , setting:  rbf, gamma=0.005 , total_score= 3.4914462773
+5-fold CV No. 2 , setting:  rbf, gamma=0.01 , total_score= 3.67079427567
+5-fold CV No. 2 , setting:  rbf, gamma=0.05 , total_score= 3.91642715622
+5-fold CV No. 2 , setting:  rbf, gamma=0.1 , total_score= 3.91824291328
+5-fold CV No. 2 , setting:  rbf, gamma=0.5 , total_score= 3.69310356897
+5-fold CV No. 2 , setting:  rbf, gamma=1 , total_score= 3.54701959632
+5-fold CV No. 2 , setting:  rbf, gamma=2 , total_score= 3.5095051607
+5-fold CV No. 2 , best score(CV) =  0.979560728321 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.982 0.981463301263 0.971857410882 0.982922201139
+5-fold CV No. 2 test score: acc, roc, apr, f1= 0.949071428571 0.949149043994 0.936312849162 0.949507825225 , avg=  0.946010286738
+5-fold CV No. 3
+5-fold CV No. 3 , setting:  poly, degree=2 total_score= 3.47193346865
+5-fold CV No. 3 , setting:  poly, degree=3 total_score= 3.80681215626
+5-fold CV No. 3 , setting:  linear , total_score= 2.96650320578
+5-fold CV No. 3 , setting:  rbf, gamma=0.001 , total_score= 2.95523478243
+5-fold CV No. 3 , setting:  rbf, gamma=0.005 , total_score= 3.46928934772
+5-fold CV No. 3 , setting:  rbf, gamma=0.01 , total_score= 3.64073583946
+5-fold CV No. 3 , setting:  rbf, gamma=0.05 , total_score= 3.88034345529
+5-fold CV No. 3 , setting:  rbf, gamma=0.1 , total_score= 3.91361913238
+5-fold CV No. 3 , setting:  rbf, gamma=0.5 , total_score= 3.67034432134
+5-fold CV No. 3 , setting:  rbf, gamma=1 , total_score= 3.47681254833
+5-fold CV No. 3 , setting:  rbf, gamma=2 , total_score= 3.40805925056
+5-fold CV No. 3 , best score(CV) =  0.978404783095 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.978 0.977626631812 0.978102189781 0.979890310786
+5-fold CV No. 3 test score: acc, roc, apr, f1= 0.947357142857 0.947402071399 0.939672223792 0.947503383432 , avg=  0.94548370537
+5-fold CV No. 4
+5-fold CV No. 4 , setting:  poly, degree=2 total_score= 3.46491458403
+5-fold CV No. 4 , setting:  poly, degree=3 total_score= 3.78901749903
+5-fold CV No. 4 , setting:  linear , total_score= 2.93595840267
+5-fold CV No. 4 , setting:  rbf, gamma=0.001 , total_score= 3.02835503096
+5-fold CV No. 4 , setting:  rbf, gamma=0.005 , total_score= 3.37728489008
+5-fold CV No. 4 , setting:  rbf, gamma=0.01 , total_score= 3.5088665594
+5-fold CV No. 4 , setting:  rbf, gamma=0.05 , total_score= 3.81562813766
+5-fold CV No. 4 , setting:  rbf, gamma=0.1 , total_score= 3.85427683846
+5-fold CV No. 4 , setting:  rbf, gamma=0.5 , total_score= 3.44112503393
+5-fold CV No. 4 , setting:  rbf, gamma=1 , total_score= 3.21327978978
+5-fold CV No. 4 , setting:  rbf, gamma=2 , total_score= 3.14578029406
+5-fold CV No. 4 , best score(CV) =  0.963569209616 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.963 0.96287544444 0.963740458015 0.964660936008
+5-fold CV No. 4 test score: acc, roc, apr, f1= 0.942214285714 0.942283728848 0.93081232493 0.942628182398 , avg=  0.939484630473
+5-fold CV No. 5
+5-fold CV No. 5 , setting:  poly, degree=2 total_score= 3.4462477026
+5-fold CV No. 5 , setting:  poly, degree=3 total_score= 3.67592669079
+5-fold CV No. 5 , setting:  linear , total_score= 2.94809116435
+5-fold CV No. 5 , setting:  rbf, gamma=0.001 , total_score= 2.99656395401
+5-fold CV No. 5 , setting:  rbf, gamma=0.005 , total_score= 3.43954231059
+5-fold CV No. 5 , setting:  rbf, gamma=0.01 , total_score= 3.60747774941
+5-fold CV No. 5 , setting:  rbf, gamma=0.05 , total_score= 3.80373997518
+5-fold CV No. 5 , setting:  rbf, gamma=0.1 , total_score= 3.78812399436
+5-fold CV No. 5 , setting:  rbf, gamma=0.5 , total_score= 3.31749141682
+5-fold CV No. 5 , setting:  rbf, gamma=1 , total_score= 3.02141742888
+5-fold CV No. 5 , setting:  rbf, gamma=2 , total_score= 2.94672105334
+5-fold CV No. 5 , best score(CV) =  0.950934993794 , setting:  rbf, gamma=2 best acc, roc, apr, f1(CV)= 0.951 0.950684525241 0.948766603416 0.95328884652
+5-fold CV No. 5 test score: acc, roc, apr, f1= 0.931785714286 0.931867568787 0.918711656442 0.932427651596 , avg=  0.928698147778
+total cv avg= 0.972560091193
+cv avg acc, roc, apr, f1= 0.9728 0.972518968248 0.970631135026 0.974290261498
+total test avg= 0.933833391367
+test avg acc, roc, apr, f1= 0.936371428571 0.936436153457 0.925758796626 0.936767186814

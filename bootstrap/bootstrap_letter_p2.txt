@@ -1,0 +1,961 @@
+5000 5000
+bootstrap 1
+bootstrap No. 1 , setting:  poly, degree=2 total_score= 3.34534428188
+bootstrap No. 1 , setting:  poly, degree=3 total_score= 3.29763589618
+bootstrap No. 1 , setting:  linear , total_score= 1.485
+bootstrap No. 1 , setting:  rbf, gamma=0.001 , total_score= 1.485
+bootstrap No. 1 , setting:  rbf, gamma=0.005 , total_score= 1.485
+bootstrap No. 1 , setting:  rbf, gamma=0.01 , total_score= 3.04338596491
+bootstrap No. 1 , setting:  rbf, gamma=0.05 , total_score= 4.0
+bootstrap No. 1 , setting:  rbf, gamma=0.1 , total_score= 4.0
+bootstrap No. 1 , setting:  rbf, gamma=0.5 , total_score= 3.26242857143
+bootstrap No. 1 , setting:  rbf, gamma=1 , total_score= 3.26242857143
+bootstrap No. 1 , setting:  rbf, gamma=2 , total_score= 3.26242857143
+bootstrap No. 1 , best svm_score =  1.0
+bootstrap No. 1 , nf:  2 total_score= 1.485
+bootstrap No. 1 , nf:  4 total_score= 1.485
+bootstrap No. 1 , nf:  8 total_score= 1.485
+bootstrap No. 1 , nf:  16 total_score= 3.15666666667
+bootstrap No. 1 , nf:  32 total_score= 3.09780116668
+bootstrap No. 1 , nf:  64 total_score= 3.49247715736
+bootstrap No. 1 , nf:  128 total_score= 3.78588888889
+bootstrap No. 1 , nf:  256 total_score= 3.78588888889
+bootstrap No. 1 , nf:  512 total_score= 3.78588888889
+bootstrap No. 1 , nf:  1024 total_score= 3.78588888889
+bootstrap No. 1 , best boost score =  0.946472222222
+bootstrap No. 1 , max_feature= 1 , total_score= 3.70882051282
+bootstrap No. 1 , max_feature= 2 , total_score= 3.70882051282
+bootstrap No. 1 , max_feature= 4 , total_score= 3.78588888889
+bootstrap No. 1 , max_feature= 6 , total_score= 3.78588888889
+bootstrap No. 1 , max_feature= 8 , total_score= 3.78588888889
+bootstrap No. 1 , max_feature= 12 , total_score= 3.78588888889
+bootstrap No. 1 , max_feature= 16 , total_score= 3.41516309153
+bootstrap No. 1 , best rf score =  0.946472222222
+bootstrap 2
+bootstrap No. 2 , setting:  poly, degree=2 total_score= 3.75142555821
+bootstrap No. 2 , setting:  poly, degree=3 total_score= 3.65414042235
+bootstrap No. 2 , setting:  linear , total_score= 1.47
+bootstrap No. 2 , setting:  rbf, gamma=0.001 , total_score= 1.47
+bootstrap No. 2 , setting:  rbf, gamma=0.005 , total_score= 2.70481818182
+bootstrap No. 2 , setting:  rbf, gamma=0.01 , total_score= 3.40496907216
+bootstrap No. 2 , setting:  rbf, gamma=0.05 , total_score= 3.80306153413
+bootstrap No. 2 , setting:  rbf, gamma=0.1 , total_score= 3.8579047619
+bootstrap No. 2 , setting:  rbf, gamma=0.5 , total_score= 3.70482051282
+bootstrap No. 2 , setting:  rbf, gamma=1 , total_score= 3.70482051282
+bootstrap No. 2 , setting:  rbf, gamma=2 , total_score= 3.70482051282
+bootstrap No. 2 , best svm_score =  0.964476190476
+bootstrap No. 2 , nf:  2 total_score= 1.47
+bootstrap No. 2 , nf:  4 total_score= 1.47
+bootstrap No. 2 , nf:  8 total_score= 1.47
+bootstrap No. 2 , nf:  16 total_score= 1.46848453608
+bootstrap No. 2 , nf:  32 total_score= 3.16170099404
+bootstrap No. 2 , nf:  64 total_score= 3.46854683469
+bootstrap No. 2 , nf:  128 total_score= 3.78137886825
+bootstrap No. 2 , nf:  256 total_score= 3.78137886825
+bootstrap No. 2 , nf:  512 total_score= 3.78137886825
+bootstrap No. 2 , nf:  1024 total_score= 3.8778209865
+bootstrap No. 2 , best boost score =  0.969455246625
+bootstrap No. 2 , max_feature= 1 , total_score= 3.8579047619
+bootstrap No. 2 , max_feature= 2 , total_score= 3.8579047619
+bootstrap No. 2 , max_feature= 4 , total_score= 3.8579047619
+bootstrap No. 2 , max_feature= 6 , total_score= 3.8579047619
+bootstrap No. 2 , max_feature= 8 , total_score= 3.84080473313
+bootstrap No. 2 , max_feature= 12 , total_score= 3.91415120275
+bootstrap No. 2 , max_feature= 16 , total_score= 3.91415120275
+bootstrap No. 2 , best rf score =  0.978537800687
+bootstrap 3
+bootstrap No. 3 , setting:  poly, degree=2 total_score= 3.32056742548
+bootstrap No. 3 , setting:  poly, degree=3 total_score= 3.71543334926
+bootstrap No. 3 , setting:  linear , total_score= 1.475
+bootstrap No. 3 , setting:  rbf, gamma=0.001 , total_score= 1.475
+bootstrap No. 3 , setting:  rbf, gamma=0.005 , total_score= 2.98809677419
+bootstrap No. 3 , setting:  rbf, gamma=0.01 , total_score= 3.45769449656
+bootstrap No. 3 , setting:  rbf, gamma=0.05 , total_score= 3.65212909785
+bootstrap No. 3 , setting:  rbf, gamma=0.1 , total_score= 3.82904347826
+bootstrap No. 3 , setting:  rbf, gamma=0.5 , total_score= 3.48694871795
+bootstrap No. 3 , setting:  rbf, gamma=1 , total_score= 3.48694871795
+bootstrap No. 3 , setting:  rbf, gamma=2 , total_score= 3.48694871795
+bootstrap No. 3 , best svm_score =  0.957260869565
+bootstrap No. 3 , nf:  2 total_score= 1.475
+bootstrap No. 3 , nf:  4 total_score= 1.475
+bootstrap No. 3 , nf:  8 total_score= 1.475
+bootstrap No. 3 , nf:  16 total_score= 2.83486206897
+bootstrap No. 3 , nf:  32 total_score= 3.21574844075
+bootstrap No. 3 , nf:  64 total_score= 3.51256841198
+bootstrap No. 3 , nf:  128 total_score= 3.61703741872
+bootstrap No. 3 , nf:  256 total_score= 3.61703741872
+bootstrap No. 3 , nf:  512 total_score= 3.61703741872
+bootstrap No. 3 , nf:  1024 total_score= 3.61703741872
+bootstrap No. 3 , best boost score =  0.90425935468
+bootstrap No. 3 , max_feature= 1 , total_score= 3.69020930233
+bootstrap No. 3 , max_feature= 2 , total_score= 3.69020930233
+bootstrap No. 3 , max_feature= 4 , total_score= 3.69020930233
+bootstrap No. 3 , max_feature= 6 , total_score= 3.61703741872
+bootstrap No. 3 , max_feature= 8 , total_score= 3.61703741872
+bootstrap No. 3 , max_feature= 12 , total_score= 3.61703741872
+bootstrap No. 3 , max_feature= 16 , total_score= 3.61703741872
+bootstrap No. 3 , best rf score =  0.922552325581
+bootstrap 4
+bootstrap No. 4 , setting:  poly, degree=2 total_score= 3.6436043956
+bootstrap No. 4 , setting:  poly, degree=3 total_score= 3.43187886383
+bootstrap No. 4 , setting:  linear , total_score= 1.475
+bootstrap No. 4 , setting:  rbf, gamma=0.001 , total_score= 1.475
+bootstrap No. 4 , setting:  rbf, gamma=0.005 , total_score= 3.25642857143
+bootstrap No. 4 , setting:  rbf, gamma=0.01 , total_score= 3.51256841198
+bootstrap No. 4 , setting:  rbf, gamma=0.05 , total_score= 3.69020930233
+bootstrap No. 4 , setting:  rbf, gamma=0.1 , total_score= 3.82904347826
+bootstrap No. 4 , setting:  rbf, gamma=0.5 , total_score= 3.82904347826
+bootstrap No. 4 , setting:  rbf, gamma=1 , total_score= 3.82904347826
+bootstrap No. 4 , setting:  rbf, gamma=2 , total_score= 3.82904347826
+bootstrap No. 4 , best svm_score =  0.957260869565
+bootstrap No. 4 , nf:  2 total_score= 1.475
+bootstrap No. 4 , nf:  4 total_score= 1.475
+bootstrap No. 4 , nf:  8 total_score= 1.475
+bootstrap No. 4 , nf:  16 total_score= 3.12570221935
+bootstrap No. 4 , nf:  32 total_score= 3.26164102564
+bootstrap No. 4 , nf:  64 total_score= 3.40082051282
+bootstrap No. 4 , nf:  128 total_score= 3.82904347826
+bootstrap No. 4 , nf:  256 total_score= 4.0
+bootstrap No. 4 , nf:  512 total_score= 3.85359602302
+bootstrap No. 4 , nf:  1024 total_score= 3.91633333333
+bootstrap No. 4 , best boost score =  1.0
+bootstrap No. 4 , max_feature= 1 , total_score= 3.91633333333
+bootstrap No. 4 , max_feature= 2 , total_score= 3.91633333333
+bootstrap No. 4 , max_feature= 4 , total_score= 3.91633333333
+bootstrap No. 4 , max_feature= 6 , total_score= 3.85359602302
+bootstrap No. 4 , max_feature= 8 , total_score= 3.74003770739
+bootstrap No. 4 , max_feature= 12 , total_score= 3.68841595442
+bootstrap No. 4 , max_feature= 16 , total_score= 3.68841595442
+bootstrap No. 4 , best rf score =  0.979083333333
+bootstrap 5
+bootstrap No. 5 , setting:  poly, degree=2 total_score= 3.77500999162
+bootstrap No. 5 , setting:  poly, degree=3 total_score= 3.65594059991
+bootstrap No. 5 , setting:  linear , total_score= 1.458
+bootstrap No. 5 , setting:  rbf, gamma=0.001 , total_score= 1.458
+bootstrap No. 5 , setting:  rbf, gamma=0.005 , total_score= 2.73528976697
+bootstrap No. 5 , setting:  rbf, gamma=0.01 , total_score= 3.52740060311
+bootstrap No. 5 , setting:  rbf, gamma=0.05 , total_score= 3.94980023229
+bootstrap No. 5 , setting:  rbf, gamma=0.1 , total_score= 3.89838095238
+bootstrap No. 5 , setting:  rbf, gamma=0.5 , total_score= 3.70736268754
+bootstrap No. 5 , setting:  rbf, gamma=1 , total_score= 3.67847619048
+bootstrap No. 5 , setting:  rbf, gamma=2 , total_score= 3.67847619048
+bootstrap No. 5 , best svm_score =  0.987450058072
+bootstrap No. 5 , nf:  2 total_score= 1.458
+bootstrap No. 5 , nf:  4 total_score= 1.458
+bootstrap No. 5 , nf:  8 total_score= 1.458
+bootstrap No. 5 , nf:  16 total_score= 2.88123809524
+bootstrap No. 5 , nf:  32 total_score= 3.20808314279
+bootstrap No. 5 , nf:  64 total_score= 3.70995737967
+bootstrap No. 5 , nf:  128 total_score= 3.92424867725
+bootstrap No. 5 , nf:  256 total_score= 4.0
+bootstrap No. 5 , nf:  512 total_score= 3.97504704532
+bootstrap No. 5 , nf:  1024 total_score= 3.97504704532
+bootstrap No. 5 , best boost score =  1.0
+bootstrap No. 5 , max_feature= 1 , total_score= 3.84564835165
+bootstrap No. 5 , max_feature= 2 , total_score= 3.92424867725
+bootstrap No. 5 , max_feature= 4 , total_score= 3.97504704532
+bootstrap No. 5 , max_feature= 6 , total_score= 4.0
+bootstrap No. 5 , max_feature= 8 , total_score= 3.94980023229
+bootstrap No. 5 , max_feature= 12 , total_score= 4.0
+bootstrap No. 5 , max_feature= 16 , total_score= 3.93795426981
+bootstrap No. 5 , best rf score =  1.0
+bootstrap 6
+bootstrap No. 6 , setting:  poly, degree=2 total_score= 3.43550929752
+bootstrap No. 6 , setting:  poly, degree=3 total_score= 3.44070243883
+bootstrap No. 6 , setting:  linear , total_score= 1.468
+bootstrap No. 6 , setting:  rbf, gamma=0.001 , total_score= 1.468
+bootstrap No. 6 , setting:  rbf, gamma=0.005 , total_score= 3.05664939024
+bootstrap No. 6 , setting:  rbf, gamma=0.01 , total_score= 3.38674488205
+bootstrap No. 6 , setting:  rbf, gamma=0.05 , total_score= 3.47388880817
+bootstrap No. 6 , setting:  rbf, gamma=0.1 , total_score= 3.65397549519
+bootstrap No. 6 , setting:  rbf, gamma=0.5 , total_score= 3.60957783019
+bootstrap No. 6 , setting:  rbf, gamma=1 , total_score= 3.60957783019
+bootstrap No. 6 , setting:  rbf, gamma=2 , total_score= 3.60957783019
+bootstrap No. 6 , best svm_score =  0.913493873798
+bootstrap No. 6 , nf:  2 total_score= 1.468
+bootstrap No. 6 , nf:  4 total_score= 1.468
+bootstrap No. 6 , nf:  8 total_score= 1.468
+bootstrap No. 6 , nf:  16 total_score= 3.21295454545
+bootstrap No. 6 , nf:  32 total_score= 3.64856481481
+bootstrap No. 6 , nf:  64 total_score= 3.72414285714
+bootstrap No. 6 , nf:  128 total_score= 3.72414285714
+bootstrap No. 6 , nf:  256 total_score= 3.65397549519
+bootstrap No. 6 , nf:  512 total_score= 3.65397549519
+bootstrap No. 6 , nf:  1024 total_score= 3.65397549519
+bootstrap No. 6 , best boost score =  0.931035714286
+bootstrap No. 6 , max_feature= 1 , total_score= 3.61463007212
+bootstrap No. 6 , max_feature= 2 , total_score= 3.61463007212
+bootstrap No. 6 , max_feature= 4 , total_score= 3.61463007212
+bootstrap No. 6 , max_feature= 6 , total_score= 3.61463007212
+bootstrap No. 6 , max_feature= 8 , total_score= 3.61463007212
+bootstrap No. 6 , max_feature= 12 , total_score= 3.61463007212
+bootstrap No. 6 , max_feature= 16 , total_score= 3.61463007212
+bootstrap No. 6 , best rf score =  0.903657518031
+bootstrap 7
+bootstrap No. 7 , setting:  poly, degree=2 total_score= 3.67663290623
+bootstrap No. 7 , setting:  poly, degree=3 total_score= 3.63125885382
+bootstrap No. 7 , setting:  linear , total_score= 1.472
+bootstrap No. 7 , setting:  rbf, gamma=0.001 , total_score= 1.472
+bootstrap No. 7 , setting:  rbf, gamma=0.005 , total_score= 2.5598226601
+bootstrap No. 7 , setting:  rbf, gamma=0.01 , total_score= 3.57043797766
+bootstrap No. 7 , setting:  rbf, gamma=0.05 , total_score= 3.72459964727
+bootstrap No. 7 , setting:  rbf, gamma=0.1 , total_score= 3.85651695437
+bootstrap No. 7 , setting:  rbf, gamma=0.5 , total_score= 3.50098701299
+bootstrap No. 7 , setting:  rbf, gamma=1 , total_score= 3.35128919861
+bootstrap No. 7 , setting:  rbf, gamma=2 , total_score= 3.35128919861
+bootstrap No. 7 , best svm_score =  0.964129238592
+bootstrap No. 7 , nf:  2 total_score= 1.472
+bootstrap No. 7 , nf:  4 total_score= 1.472
+bootstrap No. 7 , nf:  8 total_score= 1.472
+bootstrap No. 7 , nf:  16 total_score= 2.72211981567
+bootstrap No. 7 , nf:  32 total_score= 3.1445808348
+bootstrap No. 7 , nf:  64 total_score= 3.49847859015
+bootstrap No. 7 , nf:  128 total_score= 3.77541659986
+bootstrap No. 7 , nf:  256 total_score= 3.77541659986
+bootstrap No. 7 , nf:  512 total_score= 3.77541659986
+bootstrap No. 7 , nf:  1024 total_score= 3.77541659986
+bootstrap No. 7 , best boost score =  0.943854149965
+bootstrap No. 7 , max_feature= 1 , total_score= 3.84764835165
+bootstrap No. 7 , max_feature= 2 , total_score= 3.77541659986
+bootstrap No. 7 , max_feature= 4 , total_score= 3.77541659986
+bootstrap No. 7 , max_feature= 6 , total_score= 3.77541659986
+bootstrap No. 7 , max_feature= 8 , total_score= 3.77541659986
+bootstrap No. 7 , max_feature= 12 , total_score= 3.77541659986
+bootstrap No. 7 , max_feature= 16 , total_score= 3.77541659986
+bootstrap No. 7 , best rf score =  0.961912087912
+bootstrap 8
+bootstrap No. 8 , setting:  poly, degree=2 total_score= 3.80227572016
+bootstrap No. 8 , setting:  poly, degree=3 total_score= 3.71766879846
+bootstrap No. 8 , setting:  linear , total_score= 1.472
+bootstrap No. 8 , setting:  rbf, gamma=0.001 , total_score= 1.472
+bootstrap No. 8 , setting:  rbf, gamma=0.005 , total_score= 2.64304761905
+bootstrap No. 8 , setting:  rbf, gamma=0.01 , total_score= 3.28991517595
+bootstrap No. 8 , setting:  rbf, gamma=0.05 , total_score= 3.8293785556
+bootstrap No. 8 , setting:  rbf, gamma=0.1 , total_score= 3.72514285714
+bootstrap No. 8 , setting:  rbf, gamma=0.5 , total_score= 3.59403726708
+bootstrap No. 8 , setting:  rbf, gamma=1 , total_score= 3.59403726708
+bootstrap No. 8 , setting:  rbf, gamma=2 , total_score= 3.59403726708
+bootstrap No. 8 , best svm_score =  0.9573446389
+bootstrap No. 8 , nf:  2 total_score= 1.472
+bootstrap No. 8 , nf:  4 total_score= 1.472
+bootstrap No. 8 , nf:  8 total_score= 1.472
+bootstrap No. 8 , nf:  16 total_score= 2.34288536155
+bootstrap No. 8 , nf:  32 total_score= 2.34288536155
+bootstrap No. 8 , nf:  64 total_score= 3.12382833627
+bootstrap No. 8 , nf:  128 total_score= 3.57043797766
+bootstrap No. 8 , nf:  256 total_score= 3.68164438031
+bootstrap No. 8 , nf:  512 total_score= 3.73350843395
+bootstrap No. 8 , nf:  1024 total_score= 3.85651695437
+bootstrap No. 8 , best boost score =  0.964129238592
+bootstrap No. 8 , max_feature= 1 , total_score= 3.80767507003
+bootstrap No. 8 , max_feature= 2 , total_score= 3.80767507003
+bootstrap No. 8 , max_feature= 4 , total_score= 3.80767507003
+bootstrap No. 8 , max_feature= 6 , total_score= 3.80767507003
+bootstrap No. 8 , max_feature= 8 , total_score= 3.84764835165
+bootstrap No. 8 , max_feature= 12 , total_score= 3.84764835165
+bootstrap No. 8 , max_feature= 16 , total_score= 3.68164438031
+bootstrap No. 8 , best rf score =  0.961912087912
+bootstrap 9
+bootstrap No. 9 , setting:  poly, degree=2 total_score= 3.67118885238
+bootstrap No. 9 , setting:  poly, degree=3 total_score= 3.69446308445
+bootstrap No. 9 , setting:  linear , total_score= 1.47
+bootstrap No. 9 , setting:  rbf, gamma=0.001 , total_score= 1.47
+bootstrap No. 9 , setting:  rbf, gamma=0.005 , total_score= 3.37317873717
+bootstrap No. 9 , setting:  rbf, gamma=0.01 , total_score= 3.45249568281
+bootstrap No. 9 , setting:  rbf, gamma=0.05 , total_score= 3.82075757576
+bootstrap No. 9 , setting:  rbf, gamma=0.1 , total_score= 3.82075757576
+bootstrap No. 9 , setting:  rbf, gamma=0.5 , total_score= 3.62333333333
+bootstrap No. 9 , setting:  rbf, gamma=1 , total_score= 3.58117687075
+bootstrap No. 9 , setting:  rbf, gamma=2 , total_score= 3.58117687075
+bootstrap No. 9 , best svm_score =  0.955189393939
+bootstrap No. 9 , nf:  2 total_score= 1.47
+bootstrap No. 9 , nf:  4 total_score= 1.47
+bootstrap No. 9 , nf:  8 total_score= 1.47
+bootstrap No. 9 , nf:  16 total_score= 3.07238258877
+bootstrap No. 9 , nf:  32 total_score= 3.4430691401
+bootstrap No. 9 , nf:  64 total_score= 3.6850030546
+bootstrap No. 9 , nf:  128 total_score= 3.78288888889
+bootstrap No. 9 , nf:  256 total_score= 3.89436842105
+bootstrap No. 9 , nf:  512 total_score= 3.89436842105
+bootstrap No. 9 , nf:  1024 total_score= 3.84080473313
+bootstrap No. 9 , best boost score =  0.973592105263
+bootstrap No. 9 , max_feature= 1 , total_score= 3.74425786164
+bootstrap No. 9 , max_feature= 2 , total_score= 3.74425786164
+bootstrap No. 9 , max_feature= 4 , total_score= 3.82075757576
+bootstrap No. 9 , max_feature= 6 , total_score= 3.89436842105
+bootstrap No. 9 , max_feature= 8 , total_score= 3.84080473313
+bootstrap No. 9 , max_feature= 12 , total_score= 3.84080473313
+bootstrap No. 9 , max_feature= 16 , total_score= 3.84080473313
+bootstrap No. 9 , best rf score =  0.973592105263
+bootstrap 10
+bootstrap No. 10 , setting:  poly, degree=2 total_score= 3.69336542902
+bootstrap No. 10 , setting:  poly, degree=3 total_score= 3.71539511936
+bootstrap No. 10 , setting:  linear , total_score= 1.463
+bootstrap No. 10 , setting:  rbf, gamma=0.001 , total_score= 1.463
+bootstrap No. 10 , setting:  rbf, gamma=0.005 , total_score= 2.65654054054
+bootstrap No. 10 , setting:  rbf, gamma=0.01 , total_score= 3.66574817675
+bootstrap No. 10 , setting:  rbf, gamma=0.05 , total_score= 3.74698107127
+bootstrap No. 10 , setting:  rbf, gamma=0.1 , total_score= 3.74698107127
+bootstrap No. 10 , setting:  rbf, gamma=0.5 , total_score= 3.66574817675
+bootstrap No. 10 , setting:  rbf, gamma=1 , total_score= 3.59820957023
+bootstrap No. 10 , setting:  rbf, gamma=2 , total_score= 3.59820957023
+bootstrap No. 10 , best svm_score =  0.936745267817
+bootstrap No. 10 , nf:  2 total_score= 1.463
+bootstrap No. 10 , nf:  4 total_score= 1.463
+bootstrap No. 10 , nf:  8 total_score= 1.463
+bootstrap No. 10 , nf:  16 total_score= 2.59459112959
+bootstrap No. 10 , nf:  32 total_score= 3.56347747748
+bootstrap No. 10 , nf:  64 total_score= 3.66574817675
+bootstrap No. 10 , nf:  128 total_score= 3.69861486486
+bootstrap No. 10 , nf:  256 total_score= 3.8246836248
+bootstrap No. 10 , nf:  512 total_score= 3.77870043276
+bootstrap No. 10 , nf:  1024 total_score= 3.77870043276
+bootstrap No. 10 , best boost score =  0.9561709062
+bootstrap No. 10 , max_feature= 1 , total_score= 3.79392779347
+bootstrap No. 10 , max_feature= 2 , total_score= 3.8246836248
+bootstrap No. 10 , max_feature= 4 , total_score= 3.8246836248
+bootstrap No. 10 , max_feature= 6 , total_score= 3.8246836248
+bootstrap No. 10 , max_feature= 8 , total_score= 3.8246836248
+bootstrap No. 10 , max_feature= 12 , total_score= 3.8246836248
+bootstrap No. 10 , max_feature= 16 , total_score= 3.61574904453
+bootstrap No. 10 , best rf score =  0.9561709062
+bootstrap 11
+bootstrap No. 11 , setting:  poly, degree=2 total_score= 3.64882186258
+bootstrap No. 11 , setting:  poly, degree=3 total_score= 3.83737609151
+bootstrap No. 11 , setting:  linear , total_score= 1.459
+bootstrap No. 11 , setting:  rbf, gamma=0.001 , total_score= 1.459
+bootstrap No. 11 , setting:  rbf, gamma=0.005 , total_score= 2.84303252033
+bootstrap No. 11 , setting:  rbf, gamma=0.01 , total_score= 3.7168277734
+bootstrap No. 11 , setting:  rbf, gamma=0.05 , total_score= 3.73812490835
+bootstrap No. 11 , setting:  rbf, gamma=0.1 , total_score= 3.9486097561
+bootstrap No. 11 , setting:  rbf, gamma=0.5 , total_score= 3.67022996516
+bootstrap No. 11 , setting:  rbf, gamma=1 , total_score= 3.57819257372
+bootstrap No. 11 , setting:  rbf, gamma=2 , total_score= 3.57819257372
+bootstrap No. 11 , best svm_score =  0.987152439024
+bootstrap No. 11 , nf:  2 total_score= 1.459
+bootstrap No. 11 , nf:  4 total_score= 1.459
+bootstrap No. 11 , nf:  8 total_score= 1.459
+bootstrap No. 11 , nf:  16 total_score= 2.89109158785
+bootstrap No. 11 , nf:  32 total_score= 3.57965521024
+bootstrap No. 11 , nf:  64 total_score= 3.82855290986
+bootstrap No. 11 , nf:  128 total_score= 3.88325223207
+bootstrap No. 11 , nf:  256 total_score= 3.91005134263
+bootstrap No. 11 , nf:  512 total_score= 3.9486097561
+bootstrap No. 11 , nf:  1024 total_score= 3.9486097561
+bootstrap No. 11 , best boost score =  0.987152439024
+bootstrap No. 11 , max_feature= 1 , total_score= 3.84188189987
+bootstrap No. 11 , max_feature= 2 , total_score= 3.86908932531
+bootstrap No. 11 , max_feature= 4 , total_score= 3.9486097561
+bootstrap No. 11 , max_feature= 6 , total_score= 3.9486097561
+bootstrap No. 11 , max_feature= 8 , total_score= 3.9486097561
+bootstrap No. 11 , max_feature= 12 , total_score= 3.9486097561
+bootstrap No. 11 , max_feature= 16 , total_score= 3.9486097561
+bootstrap No. 11 , best rf score =  0.987152439024
+bootstrap 12
+bootstrap No. 12 , setting:  poly, degree=2 total_score= 3.46693275409
+bootstrap No. 12 , setting:  poly, degree=3 total_score= 3.74471583078
+bootstrap No. 12 , setting:  linear , total_score= 1.469
+bootstrap No. 12 , setting:  rbf, gamma=0.001 , total_score= 1.469
+bootstrap No. 12 , setting:  rbf, gamma=0.005 , total_score= 3.01628866832
+bootstrap No. 12 , setting:  rbf, gamma=0.01 , total_score= 3.5316763709
+bootstrap No. 12 , setting:  rbf, gamma=0.05 , total_score= 3.88171227841
+bootstrap No. 12 , setting:  rbf, gamma=0.1 , total_score= 3.93240860215
+bootstrap No. 12 , setting:  rbf, gamma=0.5 , total_score= 3.46852688172
+bootstrap No. 12 , setting:  rbf, gamma=1 , total_score= 3.46852688172
+bootstrap No. 12 , setting:  rbf, gamma=2 , total_score= 3.46852688172
+bootstrap No. 12 , best svm_score =  0.983102150538
+bootstrap No. 12 , nf:  2 total_score= 1.469
+bootstrap No. 12 , nf:  4 total_score= 1.469
+bootstrap No. 12 , nf:  8 total_score= 1.469
+bootstrap No. 12 , nf:  16 total_score= 1.46748400413
+bootstrap No. 12 , nf:  32 total_score= 3.02405571199
+bootstrap No. 12 , nf:  64 total_score= 3.34939165751
+bootstrap No. 12 , nf:  128 total_score= 3.61565926775
+bootstrap No. 12 , nf:  256 total_score= 3.80950782667
+bootstrap No. 12 , nf:  512 total_score= 3.84594748207
+bootstrap No. 12 , nf:  1024 total_score= 3.84594748207
+bootstrap No. 12 , best boost score =  0.961486870517
+bootstrap No. 12 , max_feature= 1 , total_score= 3.82663554046
+bootstrap No. 12 , max_feature= 2 , total_score= 3.86251835373
+bootstrap No. 12 , max_feature= 4 , total_score= 3.86251835373
+bootstrap No. 12 , max_feature= 6 , total_score= 3.86251835373
+bootstrap No. 12 , max_feature= 8 , total_score= 3.86251835373
+bootstrap No. 12 , max_feature= 12 , total_score= 3.86251835373
+bootstrap No. 12 , max_feature= 16 , total_score= 3.8977654456
+bootstrap No. 12 , best rf score =  0.9744413614
+bootstrap 13
+bootstrap No. 13 , setting:  poly, degree=2 total_score= 3.44496764523
+bootstrap No. 13 , setting:  poly, degree=3 total_score= 3.53646034946
+bootstrap No. 13 , setting:  linear , total_score= 1.458
+bootstrap No. 13 , setting:  rbf, gamma=0.001 , total_score= 1.458
+bootstrap No. 13 , setting:  rbf, gamma=0.005 , total_score= 1.458
+bootstrap No. 13 , setting:  rbf, gamma=0.01 , total_score= 3.3936297204
+bootstrap No. 13 , setting:  rbf, gamma=0.05 , total_score= 3.59040982662
+bootstrap No. 13 , setting:  rbf, gamma=0.1 , total_score= 3.55919867281
+bootstrap No. 13 , setting:  rbf, gamma=0.5 , total_score= 3.32614129586
+bootstrap No. 13 , setting:  rbf, gamma=1 , total_score= 3.32614129586
+bootstrap No. 13 , setting:  rbf, gamma=2 , total_score= 3.32614129586
+bootstrap No. 13 , best svm_score =  0.897602456654
+bootstrap No. 13 , nf:  2 total_score= 1.458
+bootstrap No. 13 , nf:  4 total_score= 1.458
+bootstrap No. 13 , nf:  8 total_score= 1.458
+bootstrap No. 13 , nf:  16 total_score= 2.57471861472
+bootstrap No. 13 , nf:  32 total_score= 3.32614129586
+bootstrap No. 13 , nf:  64 total_score= 3.32614129586
+bootstrap No. 13 , nf:  128 total_score= 3.55822969188
+bootstrap No. 13 , nf:  256 total_score= 3.55919867281
+bootstrap No. 13 , nf:  512 total_score= 3.70995737967
+bootstrap No. 13 , nf:  1024 total_score= 3.65119027336
+bootstrap No. 13 , best boost score =  0.927489344916
+bootstrap No. 13 , max_feature= 1 , total_score= 3.4294047619
+bootstrap No. 13 , max_feature= 2 , total_score= 3.61933333333
+bootstrap No. 13 , max_feature= 4 , total_score= 3.58903726708
+bootstrap No. 13 , max_feature= 6 , total_score= 3.58903726708
+bootstrap No. 13 , max_feature= 8 , total_score= 3.58903726708
+bootstrap No. 13 , max_feature= 12 , total_score= 3.61933333333
+bootstrap No. 13 , max_feature= 16 , total_score= 3.58903726708
+bootstrap No. 13 , best rf score =  0.904833333333
+bootstrap 14
+bootstrap No. 14 , setting:  poly, degree=2 total_score= 3.48820219932
+bootstrap No. 14 , setting:  poly, degree=3 total_score= 3.6774338843
+bootstrap No. 14 , setting:  linear , total_score= 1.468
+bootstrap No. 14 , setting:  rbf, gamma=0.001 , total_score= 1.468
+bootstrap No. 14 , setting:  rbf, gamma=0.005 , total_score= 2.94334935897
+bootstrap No. 14 , setting:  rbf, gamma=0.01 , total_score= 3.08213100157
+bootstrap No. 14 , setting:  rbf, gamma=0.05 , total_score= 3.55677385819
+bootstrap No. 14 , setting:  rbf, gamma=0.1 , total_score= 3.76702608193
+bootstrap No. 14 , setting:  rbf, gamma=0.5 , total_score= 3.76081798246
+bootstrap No. 14 , setting:  rbf, gamma=1 , total_score= 3.72414285714
+bootstrap No. 14 , setting:  rbf, gamma=2 , total_score= 3.72414285714
+bootstrap No. 14 , best svm_score =  0.941756520483
+bootstrap No. 14 , nf:  2 total_score= 1.468
+bootstrap No. 14 , nf:  4 total_score= 1.468
+bootstrap No. 14 , nf:  8 total_score= 1.468
+bootstrap No. 14 , nf:  16 total_score= 1.468
+bootstrap No. 14 , nf:  32 total_score= 3.30899545092
+bootstrap No. 14 , nf:  64 total_score= 3.35652463446
+bootstrap No. 14 , nf:  128 total_score= 3.65397549519
+bootstrap No. 14 , nf:  256 total_score= 3.73012232655
+bootstrap No. 14 , nf:  512 total_score= 3.73012232655
+bootstrap No. 14 , nf:  1024 total_score= 3.73012232655
+bootstrap No. 14 , best boost score =  0.932530581637
+bootstrap No. 14 , max_feature= 1 , total_score= 3.65397549519
+bootstrap No. 14 , max_feature= 2 , total_score= 3.69245503739
+bootstrap No. 14 , max_feature= 4 , total_score= 3.69245503739
+bootstrap No. 14 , max_feature= 6 , total_score= 3.69245503739
+bootstrap No. 14 , max_feature= 8 , total_score= 3.69245503739
+bootstrap No. 14 , max_feature= 12 , total_score= 3.69245503739
+bootstrap No. 14 , max_feature= 16 , total_score= 3.69245503739
+bootstrap No. 14 , best rf score =  0.923113759347
+bootstrap 15
+bootstrap No. 15 , setting:  poly, degree=2 total_score= 3.26975382693
+bootstrap No. 15 , setting:  poly, degree=3 total_score= 3.55134814789
+bootstrap No. 15 , setting:  linear , total_score= 1.47
+bootstrap No. 15 , setting:  rbf, gamma=0.001 , total_score= 1.47
+bootstrap No. 15 , setting:  rbf, gamma=0.005 , total_score= 3.39134555174
+bootstrap No. 15 , setting:  rbf, gamma=0.01 , total_score= 3.61513140363
+bootstrap No. 15 , setting:  rbf, gamma=0.05 , total_score= 3.77569427709
+bootstrap No. 15 , setting:  rbf, gamma=0.1 , total_score= 3.78288888889
+bootstrap No. 15 , setting:  rbf, gamma=0.5 , total_score= 3.30431782946
+bootstrap No. 15 , setting:  rbf, gamma=1 , total_score= 3.30431782946
+bootstrap No. 15 , setting:  rbf, gamma=2 , total_score= 3.30431782946
+bootstrap No. 15 , best svm_score =  0.945722222222
+bootstrap No. 15 , nf:  2 total_score= 1.47
+bootstrap No. 15 , nf:  4 total_score= 1.47
+bootstrap No. 15 , nf:  8 total_score= 1.47
+bootstrap No. 15 , nf:  16 total_score= 3.30452968361
+bootstrap No. 15 , nf:  32 total_score= 3.48328803345
+bootstrap No. 15 , nf:  64 total_score= 3.44000501505
+bootstrap No. 15 , nf:  128 total_score= 3.53200069919
+bootstrap No. 15 , nf:  256 total_score= 3.70269459792
+bootstrap No. 15 , nf:  512 total_score= 3.74245360825
+bootstrap No. 15 , nf:  1024 total_score= 3.74245360825
+bootstrap No. 15 , best boost score =  0.935613402062
+bootstrap No. 15 , max_feature= 1 , total_score= 3.58117687075
+bootstrap No. 15 , max_feature= 2 , total_score= 3.66452941176
+bootstrap No. 15 , max_feature= 4 , total_score= 3.8579047619
+bootstrap No. 15 , max_feature= 6 , total_score= 3.8579047619
+bootstrap No. 15 , max_feature= 8 , total_score= 3.8579047619
+bootstrap No. 15 , max_feature= 12 , total_score= 3.67118885238
+bootstrap No. 15 , max_feature= 16 , total_score= 3.75142555821
+bootstrap No. 15 , best rf score =  0.964476190476
+bootstrap 16
+bootstrap No. 16 , setting:  poly, degree=2 total_score= 3.89229244782
+bootstrap No. 16 , setting:  poly, degree=3 total_score= 3.89229244782
+bootstrap No. 16 , setting:  linear , total_score= 1.473
+bootstrap No. 16 , setting:  rbf, gamma=0.001 , total_score= 1.473
+bootstrap No. 16 , setting:  rbf, gamma=0.005 , total_score= 2.73155555556
+bootstrap No. 16 , setting:  rbf, gamma=0.01 , total_score= 3.80036659108
+bootstrap No. 16 , setting:  rbf, gamma=0.05 , total_score= 4.0
+bootstrap No. 16 , setting:  rbf, gamma=0.1 , total_score= 3.88262091503
+bootstrap No. 16 , setting:  rbf, gamma=0.5 , total_score= 3.62433333333
+bootstrap No. 16 , setting:  rbf, gamma=1 , total_score= 3.62433333333
+bootstrap No. 16 , setting:  rbf, gamma=2 , total_score= 3.62433333333
+bootstrap No. 16 , best svm_score =  1.0
+bootstrap No. 16 , nf:  2 total_score= 1.473
+bootstrap No. 16 , nf:  4 total_score= 1.473
+bootstrap No. 16 , nf:  8 total_score= 1.473
+bootstrap No. 16 , nf:  16 total_score= 3.39943832177
+bootstrap No. 16 , nf:  32 total_score= 3.52948234281
+bootstrap No. 16 , nf:  64 total_score= 3.80036659108
+bootstrap No. 16 , nf:  128 total_score= 3.88262091503
+bootstrap No. 16 , nf:  256 total_score= 3.9225014245
+bootstrap No. 16 , nf:  512 total_score= 4.0
+bootstrap No. 16 , nf:  1024 total_score= 4.0
+bootstrap No. 16 , best boost score =  1.0
+bootstrap No. 16 , max_feature= 1 , total_score= 3.84192592593
+bootstrap No. 16 , max_feature= 2 , total_score= 3.88262091503
+bootstrap No. 16 , max_feature= 4 , total_score= 3.88262091503
+bootstrap No. 16 , max_feature= 6 , total_score= 3.88262091503
+bootstrap No. 16 , max_feature= 8 , total_score= 3.84192592593
+bootstrap No. 16 , max_feature= 12 , total_score= 3.84192592593
+bootstrap No. 16 , max_feature= 16 , total_score= 3.78070616896
+bootstrap No. 16 , best rf score =  0.970655228758
+bootstrap 17
+bootstrap No. 17 , setting:  poly, degree=2 total_score= 3.66542274862
+bootstrap No. 17 , setting:  poly, degree=3 total_score= 3.60204871337
+bootstrap No. 17 , setting:  linear , total_score= 1.469
+bootstrap No. 17 , setting:  rbf, gamma=0.001 , total_score= 1.469
+bootstrap No. 17 , setting:  rbf, gamma=0.005 , total_score= 2.69685768501
+bootstrap No. 17 , setting:  rbf, gamma=0.01 , total_score= 3.79008294931
+bootstrap No. 17 , setting:  rbf, gamma=0.05 , total_score= 4.0
+bootstrap No. 17 , setting:  rbf, gamma=0.1 , total_score= 3.96647752512
+bootstrap No. 17 , setting:  rbf, gamma=0.5 , total_score= 3.59589437065
+bootstrap No. 17 , setting:  rbf, gamma=1 , total_score= 3.59589437065
+bootstrap No. 17 , setting:  rbf, gamma=2 , total_score= 3.59589437065
+bootstrap No. 17 , best svm_score =  1.0
+bootstrap No. 17 , nf:  2 total_score= 1.469
+bootstrap No. 17 , nf:  4 total_score= 1.469
+bootstrap No. 17 , nf:  8 total_score= 1.469
+bootstrap No. 17 , nf:  16 total_score= 2.7660875576
+bootstrap No. 17 , nf:  32 total_score= 3.65614871576
+bootstrap No. 17 , nf:  64 total_score= 3.80950782667
+bootstrap No. 17 , nf:  128 total_score= 3.96647752512
+bootstrap No. 17 , nf:  256 total_score= 3.96647752512
+bootstrap No. 17 , nf:  512 total_score= 3.96647752512
+bootstrap No. 17 , nf:  1024 total_score= 3.96647752512
+bootstrap No. 17 , best boost score =  0.99161938128
+bootstrap No. 17 , max_feature= 1 , total_score= 3.93240860215
+bootstrap No. 17 , max_feature= 2 , total_score= 3.96647752512
+bootstrap No. 17 , max_feature= 4 , total_score= 3.96647752512
+bootstrap No. 17 , max_feature= 6 , total_score= 3.96647752512
+bootstrap No. 17 , max_feature= 8 , total_score= 3.96647752512
+bootstrap No. 17 , max_feature= 12 , total_score= 3.91683884284
+bootstrap No. 17 , max_feature= 16 , total_score= 3.95136098825
+bootstrap No. 17 , best rf score =  0.99161938128
+bootstrap 18
+bootstrap No. 18 , setting:  poly, degree=2 total_score= 3.61554758686
+bootstrap No. 18 , setting:  poly, degree=3 total_score= 3.64610643843
+bootstrap No. 18 , setting:  linear , total_score= 1.467
+bootstrap No. 18 , setting:  rbf, gamma=0.001 , total_score= 1.467
+bootstrap No. 18 , setting:  rbf, gamma=0.005 , total_score= 3.19415151515
+bootstrap No. 18 , setting:  rbf, gamma=0.01 , total_score= 3.53897406328
+bootstrap No. 18 , setting:  rbf, gamma=0.05 , total_score= 3.80028362066
+bootstrap No. 18 , setting:  rbf, gamma=0.1 , total_score= 3.82117846361
+bootstrap No. 18 , setting:  rbf, gamma=0.5 , total_score= 3.58395959596
+bootstrap No. 18 , setting:  rbf, gamma=1 , total_score= 3.58395959596
+bootstrap No. 18 , setting:  rbf, gamma=2 , total_score= 3.58395959596
+bootstrap No. 18 , best svm_score =  0.955294615903
+bootstrap No. 18 , nf:  2 total_score= 1.467
+bootstrap No. 18 , nf:  4 total_score= 1.467
+bootstrap No. 18 , nf:  8 total_score= 1.467
+bootstrap No. 18 , nf:  16 total_score= 2.98645602365
+bootstrap No. 18 , nf:  32 total_score= 3.50464801865
+bootstrap No. 18 , nf:  64 total_score= 3.71505196049
+bootstrap No. 18 , nf:  128 total_score= 3.87721470987
+bootstrap No. 18 , nf:  256 total_score= 3.91041125199
+bootstrap No. 18 , nf:  512 total_score= 3.91041125199
+bootstrap No. 18 , nf:  1024 total_score= 3.95414579908
+bootstrap No. 18 , best boost score =  0.98853644977
+bootstrap No. 18 , max_feature= 1 , total_score= 4.0
+bootstrap No. 18 , max_feature= 2 , total_score= 4.0
+bootstrap No. 18 , max_feature= 4 , total_score= 4.0
+bootstrap No. 18 , max_feature= 6 , total_score= 4.0
+bootstrap No. 18 , max_feature= 8 , total_score= 4.0
+bootstrap No. 18 , max_feature= 12 , total_score= 4.0
+bootstrap No. 18 , max_feature= 16 , total_score= 4.0
+bootstrap No. 18 , best rf score =  1.0
+bootstrap 19
+bootstrap No. 19 , setting:  poly, degree=2 total_score= 3.59198821797
+bootstrap No. 19 , setting:  poly, degree=3 total_score= 3.65970291405
+bootstrap No. 19 , setting:  linear , total_score= 1.47
+bootstrap No. 19 , setting:  rbf, gamma=0.001 , total_score= 1.47
+bootstrap No. 19 , setting:  rbf, gamma=0.005 , total_score= 3.01078694158
+bootstrap No. 19 , setting:  rbf, gamma=0.01 , total_score= 3.24748297407
+bootstrap No. 19 , setting:  rbf, gamma=0.05 , total_score= 3.66204638329
+bootstrap No. 19 , setting:  rbf, gamma=0.1 , total_score= 3.70482051282
+bootstrap No. 19 , setting:  rbf, gamma=0.5 , total_score= 3.538
+bootstrap No. 19 , setting:  rbf, gamma=1 , total_score= 3.538
+bootstrap No. 19 , setting:  rbf, gamma=2 , total_score= 3.538
+bootstrap No. 19 , best svm_score =  0.926205128205
+bootstrap No. 19 , nf:  2 total_score= 1.47
+bootstrap No. 19 , nf:  4 total_score= 1.47
+bootstrap No. 19 , nf:  8 total_score= 1.47
+bootstrap No. 19 , nf:  16 total_score= 3.51415120275
+bootstrap No. 19 , nf:  32 total_score= 3.29345971745
+bootstrap No. 19 , nf:  64 total_score= 3.29345971745
+bootstrap No. 19 , nf:  128 total_score= 3.48923138603
+bootstrap No. 19 , nf:  256 total_score= 3.58711722031
+bootstrap No. 19 , nf:  512 total_score= 3.58711722031
+bootstrap No. 19 , nf:  1024 total_score= 3.58711722031
+bootstrap No. 19 , best boost score =  0.896779305078
+bootstrap No. 19 , max_feature= 1 , total_score= 3.538
+bootstrap No. 19 , max_feature= 2 , total_score= 3.538
+bootstrap No. 19 , max_feature= 4 , total_score= 3.48447294286
+bootstrap No. 19 , max_feature= 6 , total_score= 3.48447294286
+bootstrap No. 19 , max_feature= 8 , total_score= 3.48447294286
+bootstrap No. 19 , max_feature= 12 , total_score= 3.39390885853
+bootstrap No. 19 , max_feature= 16 , total_score= 3.48447294286
+bootstrap No. 19 , best rf score =  0.8845
+bootstrap 20
+bootstrap No. 20 , setting:  poly, degree=2 total_score= 3.23952989892
+bootstrap No. 20 , setting:  poly, degree=3 total_score= 3.50547462688
+bootstrap No. 20 , setting:  linear , total_score= 1.466
+bootstrap No. 20 , setting:  rbf, gamma=0.001 , total_score= 1.466
+bootstrap No. 20 , setting:  rbf, gamma=0.005 , total_score= 3.35729411765
+bootstrap No. 20 , setting:  rbf, gamma=0.01 , total_score= 3.63425283798
+bootstrap No. 20 , setting:  rbf, gamma=0.05 , total_score= 3.77530472517
+bootstrap No. 20 , setting:  rbf, gamma=0.1 , total_score= 3.80899051233
+bootstrap No. 20 , setting:  rbf, gamma=0.5 , total_score= 3.35729411765
+bootstrap No. 20 , setting:  rbf, gamma=1 , total_score= 3.31383313325
+bootstrap No. 20 , setting:  rbf, gamma=2 , total_score= 3.31383313325
+bootstrap No. 20 , best svm_score =  0.952247628083
+bootstrap No. 20 , nf:  2 total_score= 1.466
+bootstrap No. 20 , nf:  4 total_score= 1.466
+bootstrap No. 20 , nf:  8 total_score= 1.466
+bootstrap No. 20 , nf:  16 total_score= 2.85101674029
+bootstrap No. 20 , nf:  32 total_score= 2.81010520256
+bootstrap No. 20 , nf:  64 total_score= 3.02887278791
+bootstrap No. 20 , nf:  128 total_score= 3.34497307491
+bootstrap No. 20 , nf:  256 total_score= 3.50673572038
+bootstrap No. 20 , nf:  512 total_score= 3.51001499372
+bootstrap No. 20 , nf:  1024 total_score= 3.54497438396
+bootstrap No. 20 , best boost score =  0.886243595989
+bootstrap No. 20 , max_feature= 1 , total_score= 3.55945989305
+bootstrap No. 20 , max_feature= 2 , total_score= 3.67052738337
+bootstrap No. 20 , max_feature= 4 , total_score= 3.5051052009
+bootstrap No. 20 , max_feature= 6 , total_score= 3.54371793935
+bootstrap No. 20 , max_feature= 8 , total_score= 3.54371793935
+bootstrap No. 20 , max_feature= 12 , total_score= 3.50673572038
+bootstrap No. 20 , max_feature= 16 , total_score= 3.58492842956
+bootstrap No. 20 , best rf score =  0.917631845842
+bootstrap 21
+bootstrap No. 21 , setting:  poly, degree=2 total_score= 3.5453423665
+bootstrap No. 21 , setting:  poly, degree=3 total_score= 3.56483096887
+bootstrap No. 21 , setting:  linear , total_score= 1.455
+bootstrap No. 21 , setting:  rbf, gamma=0.001 , total_score= 1.455
+bootstrap No. 21 , setting:  rbf, gamma=0.005 , total_score= 2.75727451701
+bootstrap No. 21 , setting:  rbf, gamma=0.01 , total_score= 3.39742931937
+bootstrap No. 21 , setting:  rbf, gamma=0.05 , total_score= 3.57469748748
+bootstrap No. 21 , setting:  rbf, gamma=0.1 , total_score= 3.686682789
+bootstrap No. 21 , setting:  rbf, gamma=0.5 , total_score= 3.09913182674
+bootstrap No. 21 , setting:  rbf, gamma=1 , total_score= 3.09913182674
+bootstrap No. 21 , setting:  rbf, gamma=2 , total_score= 3.09913182674
+bootstrap No. 21 , best svm_score =  0.921670697249
+bootstrap No. 21 , nf:  2 total_score= 1.455
+bootstrap No. 21 , nf:  4 total_score= 1.455
+bootstrap No. 21 , nf:  8 total_score= 1.455
+bootstrap No. 21 , nf:  16 total_score= 1.45347643979
+bootstrap No. 21 , nf:  32 total_score= 3.24857220296
+bootstrap No. 21 , nf:  64 total_score= 3.35065228954
+bootstrap No. 21 , nf:  128 total_score= 3.6194766891
+bootstrap No. 21 , nf:  256 total_score= 3.75629274886
+bootstrap No. 21 , nf:  512 total_score= 3.75629274886
+bootstrap No. 21 , nf:  1024 total_score= 3.7824824693
+bootstrap No. 21 , best boost score =  0.945620617324
+bootstrap No. 21 , max_feature= 1 , total_score= 3.60286568943
+bootstrap No. 21 , max_feature= 2 , total_score= 3.63124178556
+bootstrap No. 21 , max_feature= 4 , total_score= 3.686682789
+bootstrap No. 21 , max_feature= 6 , total_score= 3.686682789
+bootstrap No. 21 , max_feature= 8 , total_score= 3.686682789
+bootstrap No. 21 , max_feature= 12 , total_score= 3.686682789
+bootstrap No. 21 , max_feature= 16 , total_score= 3.71378508177
+bootstrap No. 21 , best rf score =  0.928446270441
+bootstrap 22
+bootstrap No. 22 , setting:  poly, degree=2 total_score= 3.70817350997
+bootstrap No. 22 , setting:  poly, degree=3 total_score= 3.54842343023
+bootstrap No. 22 , setting:  linear , total_score= 1.473
+bootstrap No. 22 , setting:  rbf, gamma=0.001 , total_score= 1.473
+bootstrap No. 22 , setting:  rbf, gamma=0.005 , total_score= 3.16695905986
+bootstrap No. 22 , setting:  rbf, gamma=0.01 , total_score= 3.60084861554
+bootstrap No. 22 , setting:  rbf, gamma=0.05 , total_score= 3.90489353279
+bootstrap No. 22 , setting:  rbf, gamma=0.1 , total_score= 3.9225014245
+bootstrap No. 22 , setting:  rbf, gamma=0.5 , total_score= 3.08629100529
+bootstrap No. 22 , setting:  rbf, gamma=1 , total_score= 3.08629100529
+bootstrap No. 22 , setting:  rbf, gamma=2 , total_score= 3.08629100529
+bootstrap No. 22 , best svm_score =  0.980625356125
+bootstrap No. 22 , nf:  2 total_score= 1.473
+bootstrap No. 22 , nf:  4 total_score= 1.473
+bootstrap No. 22 , nf:  8 total_score= 1.473
+bootstrap No. 22 , nf:  16 total_score= 3.03363927854
+bootstrap No. 22 , nf:  32 total_score= 3.28794463616
+bootstrap No. 22 , nf:  64 total_score= 3.64757078147
+bootstrap No. 22 , nf:  128 total_score= 3.58576006084
+bootstrap No. 22 , nf:  256 total_score= 3.76715399565
+bootstrap No. 22 , nf:  512 total_score= 3.76715399565
+bootstrap No. 22 , nf:  1024 total_score= 3.76715399565
+bootstrap No. 22 , best boost score =  0.941788498913
+bootstrap No. 22 , max_feature= 1 , total_score= 3.66993880837
+bootstrap No. 22 , max_feature= 2 , total_score= 3.84192592593
+bootstrap No. 22 , max_feature= 4 , total_score= 3.82300749291
+bootstrap No. 22 , max_feature= 6 , total_score= 3.82300749291
+bootstrap No. 22 , max_feature= 8 , total_score= 3.76715399565
+bootstrap No. 22 , max_feature= 12 , total_score= 3.63290461792
+bootstrap No. 22 , max_feature= 16 , total_score= 3.48726303091
+bootstrap No. 22 , best rf score =  0.960481481481
+bootstrap 23
+bootstrap No. 23 , setting:  poly, degree=2 total_score= 3.80722210042
+bootstrap No. 23 , setting:  poly, degree=3 total_score= 3.60340374862
+bootstrap No. 23 , setting:  linear , total_score= 1.481
+bootstrap No. 23 , setting:  rbf, gamma=0.001 , total_score= 1.481
+bootstrap No. 23 , setting:  rbf, gamma=0.005 , total_score= 3.36969924812
+bootstrap No. 23 , setting:  rbf, gamma=0.01 , total_score= 3.2293255846
+bootstrap No. 23 , setting:  rbf, gamma=0.05 , total_score= 3.78593657994
+bootstrap No. 23 , setting:  rbf, gamma=0.1 , total_score= 3.78593657994
+bootstrap No. 23 , setting:  rbf, gamma=0.5 , total_score= 3.64860526316
+bootstrap No. 23 , setting:  rbf, gamma=1 , total_score= 3.64860526316
+bootstrap No. 23 , setting:  rbf, gamma=2 , total_score= 3.64860526316
+bootstrap No. 23 , best svm_score =  0.951805525105
+bootstrap No. 23 , nf:  2 total_score= 1.481
+bootstrap No. 23 , nf:  4 total_score= 1.481
+bootstrap No. 23 , nf:  8 total_score= 1.481
+bootstrap No. 23 , nf:  16 total_score= 3.06421936084
+bootstrap No. 23 , nf:  32 total_score= 3.48035671277
+bootstrap No. 23 , nf:  64 total_score= 3.72529801568
+bootstrap No. 23 , nf:  128 total_score= 3.72529801568
+bootstrap No. 23 , nf:  256 total_score= 3.78593657994
+bootstrap No. 23 , nf:  512 total_score= 3.78593657994
+bootstrap No. 23 , nf:  1024 total_score= 3.61457825966
+bootstrap No. 23 , best boost score =  0.946484144985
+bootstrap No. 23 , max_feature= 1 , total_score= 3.83233834586
+bootstrap No. 23 , max_feature= 2 , total_score= 3.74660830706
+bootstrap No. 23 , max_feature= 4 , total_score= 3.74660830706
+bootstrap No. 23 , max_feature= 6 , total_score= 3.74660830706
+bootstrap No. 23 , max_feature= 8 , total_score= 3.74660830706
+bootstrap No. 23 , max_feature= 12 , total_score= 3.59773410591
+bootstrap No. 23 , max_feature= 16 , total_score= 3.41675505975
+bootstrap No. 23 , best rf score =  0.958084586466
+bootstrap 24
+bootstrap No. 24 , setting:  poly, degree=2 total_score= 3.5092614912
+bootstrap No. 24 , setting:  poly, degree=3 total_score= 3.79497435897
+bootstrap No. 24 , setting:  linear , total_score= 1.475
+bootstrap No. 24 , setting:  rbf, gamma=0.001 , total_score= 1.475
+bootstrap No. 24 , setting:  rbf, gamma=0.005 , total_score= 2.37589010989
+bootstrap No. 24 , setting:  rbf, gamma=0.01 , total_score= 3.59336008919
+bootstrap No. 24 , setting:  rbf, gamma=0.05 , total_score= 3.91633333333
+bootstrap No. 24 , setting:  rbf, gamma=0.1 , total_score= 3.87317021277
+bootstrap No. 24 , setting:  rbf, gamma=0.5 , total_score= 3.69020930233
+bootstrap No. 24 , setting:  rbf, gamma=1 , total_score= 3.69020930233
+bootstrap No. 24 , setting:  rbf, gamma=2 , total_score= 3.69020930233
+bootstrap No. 24 , best svm_score =  0.979083333333
+bootstrap No. 24 , nf:  2 total_score= 1.475
+bootstrap No. 24 , nf:  4 total_score= 1.475
+bootstrap No. 24 , nf:  8 total_score= 1.475
+bootstrap No. 24 , nf:  16 total_score= 2.91333333333
+bootstrap No. 24 , nf:  32 total_score= 3.05127838828
+bootstrap No. 24 , nf:  64 total_score= 3.5416085404
+bootstrap No. 24 , nf:  128 total_score= 4.0
+bootstrap No. 24 , nf:  256 total_score= 4.0
+bootstrap No. 24 , nf:  512 total_score= 4.0
+bootstrap No. 24 , nf:  1024 total_score= 4.0
+bootstrap No. 24 , best boost score =  1.0
+bootstrap No. 24 , max_feature= 1 , total_score= 3.87317021277
+bootstrap No. 24 , max_feature= 2 , total_score= 3.95859183673
+bootstrap No. 24 , max_feature= 4 , total_score= 4.0
+bootstrap No. 24 , max_feature= 6 , total_score= 4.0
+bootstrap No. 24 , max_feature= 8 , total_score= 4.0
+bootstrap No. 24 , max_feature= 12 , total_score= 4.0
+bootstrap No. 24 , max_feature= 16 , total_score= 4.0
+bootstrap No. 24 , best rf score =  1.0
+bootstrap 25
+bootstrap No. 25 , setting:  poly, degree=2 total_score= 3.64265034965
+bootstrap No. 25 , setting:  poly, degree=3 total_score= 3.59387837705
+bootstrap No. 25 , setting:  linear , total_score= 1.475
+bootstrap No. 25 , setting:  rbf, gamma=0.001 , total_score= 1.475
+bootstrap No. 25 , setting:  rbf, gamma=0.005 , total_score= 3.51256841198
+bootstrap No. 25 , setting:  rbf, gamma=0.01 , total_score= 3.80867558528
+bootstrap No. 25 , setting:  rbf, gamma=0.05 , total_score= 3.73575195245
+bootstrap No. 25 , setting:  rbf, gamma=0.1 , total_score= 3.78642735043
+bootstrap No. 25 , setting:  rbf, gamma=0.5 , total_score= 3.87317021277
+bootstrap No. 25 , setting:  rbf, gamma=1 , total_score= 3.87317021277
+bootstrap No. 25 , setting:  rbf, gamma=2 , total_score= 3.87317021277
+bootstrap No. 25 , best svm_score =  0.968292553191
+bootstrap No. 25 , nf:  2 total_score= 1.475
+bootstrap No. 25 , nf:  4 total_score= 1.475
+bootstrap No. 25 , nf:  8 total_score= 1.475
+bootstrap No. 25 , nf:  16 total_score= 3.16272909699
+bootstrap No. 25 , nf:  32 total_score= 3.5904045584
+bootstrap No. 25 , nf:  64 total_score= 3.63978899717
+bootstrap No. 25 , nf:  128 total_score= 3.68841595442
+bootstrap No. 25 , nf:  256 total_score= 3.68841595442
+bootstrap No. 25 , nf:  512 total_score= 3.68841595442
+bootstrap No. 25 , nf:  1024 total_score= 3.68841595442
+bootstrap No. 25 , best boost score =  0.922103988604
+bootstrap No. 25 , max_feature= 1 , total_score= 3.85359602302
+bootstrap No. 25 , max_feature= 2 , total_score= 3.85359602302
+bootstrap No. 25 , max_feature= 4 , total_score= 3.79497435897
+bootstrap No. 25 , max_feature= 6 , total_score= 3.79497435897
+bootstrap No. 25 , max_feature= 8 , total_score= 3.85359602302
+bootstrap No. 25 , max_feature= 12 , total_score= 3.63978899717
+bootstrap No. 25 , max_feature= 16 , total_score= 3.68841595442
+bootstrap No. 25 , best rf score =  0.963399005756
+bootstrap 26
+bootstrap No. 26 , setting:  poly, degree=2 total_score= 4.0
+bootstrap No. 26 , setting:  poly, degree=3 total_score= 3.74342364406
+bootstrap No. 26 , setting:  linear , total_score= 1.474
+bootstrap No. 26 , setting:  rbf, gamma=0.001 , total_score= 1.474
+bootstrap No. 26 , setting:  rbf, gamma=0.005 , total_score= 1.474
+bootstrap No. 26 , setting:  rbf, gamma=0.01 , total_score= 3.3544622042
+bootstrap No. 26 , setting:  rbf, gamma=0.05 , total_score= 3.88850769749
+bootstrap No. 26 , setting:  rbf, gamma=0.1 , total_score= 3.61801293299
+bootstrap No. 26 , setting:  rbf, gamma=0.5 , total_score= 3.17036263736
+bootstrap No. 26 , setting:  rbf, gamma=1 , total_score= 3.17036263736
+bootstrap No. 26 , setting:  rbf, gamma=2 , total_score= 3.17036263736
+bootstrap No. 26 , best svm_score =  1.0
+bootstrap No. 26 , nf:  2 total_score= 1.474
+bootstrap No. 26 , nf:  4 total_score= 1.474
+bootstrap No. 26 , nf:  8 total_score= 1.474
+bootstrap No. 26 , nf:  16 total_score= 2.48973145214
+bootstrap No. 26 , nf:  32 total_score= 3.34788968424
+bootstrap No. 26 , nf:  64 total_score= 3.45536237499
+bootstrap No. 26 , nf:  128 total_score= 3.84606468907
+bootstrap No. 26 , nf:  256 total_score= 3.74342364406
+bootstrap No. 26 , nf:  512 total_score= 3.88850769749
+bootstrap No. 26 , nf:  1024 total_score= 3.88850769749
+bootstrap No. 26 , best boost score =  0.972126924372
+bootstrap No. 26 , max_feature= 1 , total_score= 3.65633566434
+bootstrap No. 26 , max_feature= 2 , total_score= 3.79246317512
+bootstrap No. 26 , max_feature= 4 , total_score= 3.6660057952
+bootstrap No. 26 , max_feature= 6 , total_score= 3.6660057952
+bootstrap No. 26 , max_feature= 8 , total_score= 3.6660057952
+bootstrap No. 26 , max_feature= 12 , total_score= 3.65728198005
+bootstrap No. 26 , max_feature= 16 , total_score= 3.55651368202
+bootstrap No. 26 , best rf score =  0.948115793781
+bootstrap 27
+bootstrap No. 27 , setting:  poly, degree=2 total_score= 3.68814229862
+bootstrap No. 27 , setting:  poly, degree=3 total_score= 3.59296164315
+bootstrap No. 27 , setting:  linear , total_score= 1.462
+bootstrap No. 27 , setting:  rbf, gamma=0.001 , total_score= 1.462
+bootstrap No. 27 , setting:  rbf, gamma=0.005 , total_score= 2.92308924485
+bootstrap No. 27 , setting:  rbf, gamma=0.01 , total_score= 3.61224429669
+bootstrap No. 27 , setting:  rbf, gamma=0.05 , total_score= 3.87417473344
+bootstrap No. 27 , setting:  rbf, gamma=0.1 , total_score= 3.65823943901
+bootstrap No. 27 , setting:  rbf, gamma=0.5 , total_score= 3.15585655315
+bootstrap No. 27 , setting:  rbf, gamma=1 , total_score= 3.15585655315
+bootstrap No. 27 , setting:  rbf, gamma=2 , total_score= 3.15585655315
+bootstrap No. 27 , best svm_score =  0.968543683359
+bootstrap No. 27 , nf:  2 total_score= 1.462
+bootstrap No. 27 , nf:  4 total_score= 1.462
+bootstrap No. 27 , nf:  8 total_score= 1.462
+bootstrap No. 27 , nf:  16 total_score= 2.18646562035
+bootstrap No. 27 , nf:  32 total_score= 3.39677826919
+bootstrap No. 27 , nf:  64 total_score= 3.47182689572
+bootstrap No. 27 , nf:  128 total_score= 3.64560302744
+bootstrap No. 27 , nf:  256 total_score= 3.75383927204
+bootstrap No. 27 , nf:  512 total_score= 3.75383927204
+bootstrap No. 27 , nf:  1024 total_score= 3.5915484756
+bootstrap No. 27 , best boost score =  0.938459818009
+bootstrap No. 27 , max_feature= 1 , total_score= 3.70690590112
+bootstrap No. 27 , max_feature= 2 , total_score= 3.70690590112
+bootstrap No. 27 , max_feature= 4 , total_score= 3.61224429669
+bootstrap No. 27 , max_feature= 6 , total_score= 3.61224429669
+bootstrap No. 27 , max_feature= 8 , total_score= 3.61224429669
+bootstrap No. 27 , max_feature= 12 , total_score= 3.61224429669
+bootstrap No. 27 , max_feature= 16 , total_score= 3.56868181042
+bootstrap No. 27 , best rf score =  0.926726475279
+bootstrap 28
+bootstrap No. 28 , setting:  poly, degree=2 total_score= 3.88063780295
+bootstrap No. 28 , setting:  poly, degree=3 total_score= 3.79571372939
+bootstrap No. 28 , setting:  linear , total_score= 1.466
+bootstrap No. 28 , setting:  rbf, gamma=0.001 , total_score= 1.466
+bootstrap No. 28 , setting:  rbf, gamma=0.005 , total_score= 2.67527980922
+bootstrap No. 28 , setting:  rbf, gamma=0.01 , total_score= 3.70610468594
+bootstrap No. 28 , setting:  rbf, gamma=0.05 , total_score= 3.95541821946
+bootstrap No. 28 , setting:  rbf, gamma=0.1 , total_score= 3.79286965656
+bootstrap No. 28 , setting:  rbf, gamma=0.5 , total_score= 3.59724369748
+bootstrap No. 28 , setting:  rbf, gamma=1 , total_score= 3.59724369748
+bootstrap No. 28 , setting:  rbf, gamma=2 , total_score= 3.59724369748
+bootstrap No. 28 , best svm_score =  0.988854554865
+bootstrap No. 28 , nf:  2 total_score= 1.466
+bootstrap No. 28 , nf:  4 total_score= 1.466
+bootstrap No. 28 , nf:  8 total_score= 1.466
+bootstrap No. 28 , nf:  16 total_score= 2.9174045911
+bootstrap No. 28 , nf:  32 total_score= 3.28440397028
+bootstrap No. 28 , nf:  64 total_score= 3.65200125535
+bootstrap No. 28 , nf:  128 total_score= 3.92395298989
+bootstrap No. 28 , nf:  256 total_score= 3.92395298989
+bootstrap No. 28 , nf:  512 total_score= 3.95541821946
+bootstrap No. 28 , nf:  1024 total_score= 3.95541821946
+bootstrap No. 28 , best boost score =  0.988854554865
+bootstrap No. 28 , max_feature= 1 , total_score= 3.75865323781
+bootstrap No. 28 , max_feature= 2 , total_score= 3.79286965656
+bootstrap No. 28 , max_feature= 4 , total_score= 3.79286965656
+bootstrap No. 28 , max_feature= 6 , total_score= 3.79286965656
+bootstrap No. 28 , max_feature= 8 , total_score= 3.74622695482
+bootstrap No. 28 , max_feature= 12 , total_score= 3.75865323781
+bootstrap No. 28 , max_feature= 16 , total_score= 3.71106284253
+bootstrap No. 28 , best rf score =  0.94821741414
+bootstrap 29
+bootstrap No. 29 , setting:  poly, degree=2 total_score= 3.55609602962
+bootstrap No. 29 , setting:  poly, degree=3 total_score= 3.41255935962
+bootstrap No. 29 , setting:  linear , total_score= 1.462
+bootstrap No. 29 , setting:  rbf, gamma=0.001 , total_score= 1.462
+bootstrap No. 29 , setting:  rbf, gamma=0.005 , total_score= 2.52743994602
+bootstrap No. 29 , setting:  rbf, gamma=0.01 , total_score= 3.82933834586
+bootstrap No. 29 , setting:  rbf, gamma=0.05 , total_score= 3.87417473344
+bootstrap No. 29 , setting:  rbf, gamma=0.1 , total_score= 3.82933834586
+bootstrap No. 29 , setting:  rbf, gamma=0.5 , total_score= 3.43481306715
+bootstrap No. 29 , setting:  rbf, gamma=1 , total_score= 3.28111890838
+bootstrap No. 29 , setting:  rbf, gamma=2 , total_score= 3.28111890838
+bootstrap No. 29 , best svm_score =  0.968543683359
+bootstrap No. 29 , nf:  2 total_score= 1.462
+bootstrap No. 29 , nf:  4 total_score= 1.462
+bootstrap No. 29 , nf:  8 total_score= 1.462
+bootstrap No. 29 , nf:  16 total_score= 1.462
+bootstrap No. 29 , nf:  32 total_score= 3.17817253814
+bootstrap No. 29 , nf:  64 total_score= 3.3397401636
+bootstrap No. 29 , nf:  128 total_score= 3.79944546148
+bootstrap No. 29 , nf:  256 total_score= 3.79944546148
+bootstrap No. 29 , nf:  512 total_score= 3.79944546148
+bootstrap No. 29 , nf:  1024 total_score= 3.8587879911
+bootstrap No. 29 , best boost score =  0.964696997776
+bootstrap No. 29 , max_feature= 1 , total_score= 3.73825058916
+bootstrap No. 29 , max_feature= 2 , total_score= 3.79944546148
+bootstrap No. 29 , max_feature= 4 , total_score= 3.66921130228
+bootstrap No. 29 , max_feature= 6 , total_score= 3.66921130228
+bootstrap No. 29 , max_feature= 8 , total_score= 3.66921130228
+bootstrap No. 29 , max_feature= 12 , total_score= 3.79944546148
+bootstrap No. 29 , max_feature= 16 , total_score= 3.66272738325
+bootstrap No. 29 , best rf score =  0.94986136537
+bootstrap 30
+bootstrap No. 30 , setting:  poly, degree=2 total_score= 3.69754387297
+bootstrap No. 30 , setting:  poly, degree=3 total_score= 3.77839979965
+bootstrap No. 30 , setting:  linear , total_score= 1.456
+bootstrap No. 30 , setting:  rbf, gamma=0.001 , total_score= 1.456
+bootstrap No. 30 , setting:  rbf, gamma=0.005 , total_score= 3.0728676236
+bootstrap No. 30 , setting:  rbf, gamma=0.01 , total_score= 3.49497084118
+bootstrap No. 30 , setting:  rbf, gamma=0.05 , total_score= 3.90292640693
+bootstrap No. 30 , setting:  rbf, gamma=0.1 , total_score= 3.60906600249
+bootstrap No. 30 , setting:  rbf, gamma=0.5 , total_score= 3.57995959596
+bootstrap No. 30 , setting:  rbf, gamma=1 , total_score= 3.57995959596
+bootstrap No. 30 , setting:  rbf, gamma=2 , total_score= 3.57995959596
+bootstrap No. 30 , best svm_score =  0.975731601732
+bootstrap No. 30 , nf:  2 total_score= 1.456
+bootstrap No. 30 , nf:  4 total_score= 1.456
+bootstrap No. 30 , nf:  8 total_score= 1.456
+bootstrap No. 30 , nf:  16 total_score= 1.456
+bootstrap No. 30 , nf:  32 total_score= 3.57995959596
+bootstrap No. 30 , nf:  64 total_score= 3.57995959596
+bootstrap No. 30 , nf:  128 total_score= 3.87794085433
+bootstrap No. 30 , nf:  256 total_score= 3.90292640693
+bootstrap No. 30 , nf:  512 total_score= 3.83011293996
+bootstrap No. 30 , nf:  1024 total_score= 3.90292640693
+bootstrap No. 30 , best boost score =  0.975731601732
+bootstrap No. 30 , max_feature= 1 , total_score= 3.63771990172
+bootstrap No. 30 , max_feature= 2 , total_score= 3.72114285714
+bootstrap No. 30 , max_feature= 4 , total_score= 3.72114285714
+bootstrap No. 30 , max_feature= 6 , total_score= 3.72114285714
+bootstrap No. 30 , max_feature= 8 , total_score= 3.80109090909
+bootstrap No. 30 , max_feature= 12 , total_score= 3.85264745011
+bootstrap No. 30 , max_feature= 16 , total_score= 3.82703479237
+bootstrap No. 30 , best rf score =  0.963161862528

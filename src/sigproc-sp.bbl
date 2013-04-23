@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{uci}
+K.~Bache and M.~Lichman.
+\newblock {UCI} machine learning repository, 2013.
+
+\bibitem{Caruana:2006}
+R.~Caruana and A.~Niculescu-Mizil.
+\newblock An empirical comparison of supervised learning algorithms.
+\newblock In {\em Proceedings of the 23rd international conference on Machine
+  learning}, ICML '06, pages 161--168, New York, NY, USA, 2006. ACM.
+
+\bibitem{CC01a}
+C.-C. Chang and C.-J. Lin.
+\newblock {LIBSVM}: A library for support vector machines.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology},
+  2:27:1--27:27, 2011.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{Platt:1999}
+J.~C. Platt.
+\newblock Advances in kernel methods.
+\newblock In B.~Sch\"{o}lkopf, C.~J.~C. Burges, and A.~J. Smola, editors, {\em
+  Advances in kernel methods}, chapter Fast training of support vector machines
+  using sequential minimal optimization, pages 185--208. MIT Press, Cambridge,
+  MA, USA, 1999.
+
+\end{thebibliography}
